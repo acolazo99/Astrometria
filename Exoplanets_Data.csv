@@ -1,0 +1,1572 @@
+,target_name,mass,radius,semi_major_axis,detection_type
+0,14 Her b,9.1,,2.845,Radial Velocity
+1,14 Her c,6.9,,27.4,Radial Velocity
+2,1RXS 1609 b,14.0,1.7,330.0,Imaging
+3,2M 0103-55 (AB) b,13.0,,84.0,Imaging
+4,2M 0219-39 b,13.9,1.44,156.0,Imaging
+5,2M 0441+23 b,7.5,,15.0,Imaging
+6,2M 2236+4751 b,12.5,,230.0,Imaging
+7,2M J2126-81 b,13.3,,6900.0,Imaging
+8,2M0117-34,16.4,,,Imaging
+9,2M0437 b,4.0,,118.0,Imaging
+10,2M1207 b,5.0,,42.0,Imaging
+11,2MASS J0030-1450,10.0,1.36,,Imaging
+12,2MASS J00413538-5621127 B,15.0,,8.9,Imaging
+13,2MASS J0153-6744,17.0,1.48,,Imaging
+14,2MASS J0249-0557 (AB) c,11.6,,,Astrometry
+15,2MASS J0326-2102,18.0,1.32,,Imaging
+16,2MASS J0342-6817,17.0,1.48,,Imaging
+17,2MASS J0459-2853,8.0,1.32,,Imaging
+18,2MASS J0642+4101,12.0,1.23,,Imaging
+19,2MASS J0718-6415,3.0,1.29,,Imaging
+20,2MASS J0809+4434,13.0,1.35,,Imaging
+21,2MASS J0951-8023,15.0,1.45,,Imaging
+22,2MASS J1119-1137 b,3.7,,,Imaging
+23,2MASS J1155-7919 b,10.0,,582.0,Imaging
+24,2MASS J1647+5632,18.0,1.22,,Imaging
+25,2MASS J2002-0521,13.0,1.36,,Imaging
+26,2MASS J2117-2940,7.0,1.38,,Imaging
+27,2MASS J2206+3301,8.0,1.3,,Imaging
+28,2MASS J2322-6151,18.0,1.5,,Imaging
+29,55 Cnc b,0.84,,0.11339,Radial Velocity
+30,2MASSW J2208136+292121,10.0,,,Imaging
+31,51 Eri b,2.6,1.11,11.1,Imaging
+32,51 Peg b,0.47,1.9,0.052,Radial Velocity
+33,55 Cnc e,0.02703,0.1737,0.015439,Primary Transit
+34,AB Aur b,9.0,,93.9,Imaging
+35,AB Dor C b,13.0,,0.58,Imaging
+36,AB Pic b,13.5,,275.0,Imaging
+37,AU Mic b,0.0368,0.3908,0.0645,Primary Transit
+38,AU Mic c,0.0698,0.3131,0.1101,Primary Transit
+39,BD+20 594 b,0.07,0.23,0.241,Primary Transit
+40,BD+60 1417 b,15.0,1.31,1662.0,Imaging
+41,BLG-1691L b,0.046,,2.46,Microlensing
+42,CD Cet b,0.01244,,0.0185,Radial Velocity
+43,CFBD 1458 B,10.5,,2.6,Imaging
+44,CHXR 73 b,12.0,,200.0,Imaging
+45,CI Tau b,11.6,,,Radial Velocity
+46,COCONUTS-2 b,6.4,1.12,6471.0,Imaging
+47,CT Cha b,17.0,2.2,440.0,Imaging
+48,CWISEP J144606.62-231717.8,11.0,,,Imaging
+49,CWISEP J1935-1546,11.0,,,Imaging
+50,CoRoT-1 b,1.03,1.49,0.0254,Primary Transit
+51,CoRoT-10 b,2.75,0.97,0.1055,Primary Transit
+52,CoRoT-11 b,2.33,1.43,0.04351,Primary Transit
+53,CoRoT-12 b,0.917,1.44,0.04016,Primary Transit
+54,CoRoT-13 b,1.308,0.885,0.051,Primary Transit
+55,CoRoT-14 b,7.6,1.09,0.027,Primary Transit
+56,CoRoT-16 b,0.535,1.17,0.0618,Primary Transit
+57,CoRoT-17 b,2.43,1.02,0.0461,Primary Transit
+58,CoRoT-18 b,3.47,1.31,0.0295,Primary Transit
+59,CoRoT-19 b,1.11,1.29,0.0518,Primary Transit
+60,CoRoT-2 b,3.31,1.465,0.0281,Primary Transit
+61,CoRoT-20 b,4.24,0.84,0.0902,Primary Transit
+62,CoRoT-21 b,2.26,1.3,0.0417,Primary Transit
+63,CoRoT-22 b,0.06,0.4354,0.092,Primary Transit
+64,CoRoT-23 b,2.8,1.08,0.0477,Primary Transit
+65,CoRoT-24 b,0.018,0.33,0.056,Primary Transit
+66,CoRoT-24 c,0.088,0.44,0.098,Primary Transit
+67,CoRoT-25 b,0.27,1.08,0.0578,Primary Transit
+68,CoRoT-26 b,0.52,1.26,0.0526,Primary Transit
+69,CoRoT-27 b,10.39,1.007,0.0476,Primary Transit
+70,CoRoT-29 b,0.85,0.9,0.039,Primary Transit
+71,CoRoT-30 b,2.9,1.009,0.0844,Primary Transit
+72,CoRoT-31 b,0.84,1.46,0.0586,Primary Transit
+73,CoRoT-32 b,0.15,0.57,0.071,Primary Transit
+74,CoRoT-35 b,1.1,1.68,0.0429,Primary Transit
+75,CoRoT-36 b,0.68,1.41,0.066,Primary Transit
+76,CoRoT-4 b,0.72,1.19,0.09,Primary Transit
+77,CoRoT-5 b,0.467,1.33,0.04947,Primary Transit
+78,CoRoT-6 b,2.96,1.166,0.0855,Primary Transit
+79,CoRoT-7 b,0.041812,0.136,0.0172,Primary Transit
+80,DANCe J16041234-2127472,10.0,,,Imaging
+81,CoRoT-8 b,0.2158,0.5692,0.063,Primary Transit
+82,CoRoT-9 b,0.84,0.94,0.407,Primary Transit
+83,DANCe J15454024-2422072,8.0,,,Imaging
+84,DANCe J15481655-2307430,12.0,,,Imaging
+85,DANCe J15582895-2530319,7.0,,,Imaging
+86,DANCe J16053908-2403330,11.0,,,Imaging
+87,DANCe J16064467-2033428,12.0,,,Imaging
+88,DANCe J16064553-2121595,10.0,,,Imaging
+89,DANCe J16081299-2304316,4.0,,,Imaging
+90,DANCe J16091010-1930376,8.0,,,Imaging
+91,DANCe J16134589-2442310,10.0,,,Imaging
+92,DANCe J16135217-2443562,10.0,,,Imaging
+93,DANCe J16140756-2211524,11.0,,,Imaging
+94,DANCe J16255679-2113354,12.0,,,Imaging
+95,DANCe J16393029-2454135,11.0,,,Imaging
+96,DH Tau b,11.0,,330.0,Imaging
+97,DP Leo (AB) b,6.05,,8.19,Pulsar
+98,DS Tuc A b,0.0453,0.5085,0.0795,Primary Transit
+99,EPIC 201295312 b,0.0379,0.245,,Primary Transit
+100,EPIC 205084841 b,0.3883,1.561,0.104,Primary Transit
+101,EPIC 211442297 b,0.84,1.115,0.1367,Primary Transit
+102,EPIC 211945201 b,0.085,0.514,0.1493,Primary Transit
+103,EPIC 212737443 b,0.02907,0.231,0.098,Primary Transit
+104,EPIC 212737443 c,0.0303,0.24,0.28,Primary Transit
+105,EPIC 246193072 b,0.26,0.774,0.1016,Primary Transit
+106,EPIC 246851721 b,3.0,1.051,0.07229,Primary Transit
+107,Exomoon Kepler-1708 b-i,0.116,0.2329,0.05,Primary Transit
+108,FU Tau b,15.0,,800.0,Imaging
+109,Fomalhaut b,0.208,,117.0,Imaging
+110,G 196-3 b,15.0,,,Imaging
+111,G 9-40 b,0.013,0.17,0.0418,Primary Transit
+112,GJ 1132 b,0.00522,0.1035,0.0154,Primary Transit
+113,GJ 1214 b,0.02571,0.24463,0.01411,Primary Transit
+114,GJ 1252 b,0.00415,0.1053,0.00916,Primary Transit
+115,GJ 143 b,0.0714,0.2329,0.1932,Primary Transit
+116,GJ 143 c,0.01164,0.07958,0.0695,Primary Transit
+117,GJ 2030 c,12.934,,16.752,Astrometry
+118,GJ 273 b,0.00922,,0.091,Radial Velocity
+119,GJ 273 c,0.00374,,0.036,Radial Velocity
+120,GJ 273 d,0.03448,,0.712,Radial Velocity
+121,GJ 273 e,0.0297,,0.849,Radial Velocity
+122,GJ 3090 b,0.01051,0.19,0.03165,Primary Transit
+123,GJ 3470 b,0.03958,0.37380742940036,0.03557,Primary Transit
+124,GJ 3473 b,0.00585,0.11277,0.01589,Primary Transit
+125,GJ 357 b,0.006566,0.10411,0.033,Primary Transit
+126,GJ 3634 b,0.026,,0.0287,Radial Velocity
+127,GJ 367  b,0.00047,0.0526,0.0069,Primary Transit
+128,GJ 3929 b,0.00381,0.1026,0.02569,Primary Transit
+129,GJ 436 b,0.07,0.38,0.02887,Primary Transit
+130,GJ 486 b,0.00887,0.11643,0.01734,Primary Transit
+131,GJ 504 b,4.0,0.96,43.5,Imaging
+132,GJ 676 A b,6.7,,1.812,Radial Velocity
+133,GJ 676 A c,6.8,,6.6,Radial Velocity
+134,GJ 876 b,3.6,,0.214,Radial Velocity
+135,GJ 876 d,0.021741,,0.021,Radial Velocity
+136,GJ 876 e,0.04855,,0.345,Radial Velocity
+137,GJ 896A b,2.26,,0.64282,Astrometry
+138,GJ 9827 b,0.01532,0.13641,0.01866,Primary Transit
+139,GJ 9827 c,0.00604,0.107,0.03896,Primary Transit
+140,GJ 9827 d,0.01076,0.17441,0.0555,Primary Transit
+141,GPX-1 b,19.7,1.47,0.0338,Primary Transit
+142,GQ Lup b,0.013,1.8,32.0,Imaging
+143,GSC 6214-210 b,17.0,,320.0,Imaging
+144,GU Psc b,11.0,1.35,2000.0,Imaging
+145,Gaia-1 b,1.68,1.229,0.04047,Primary Transit
+146,Gaia-2 b,0.773,1.327,0.0467,Primary Transit
+147,HAT-P-1 b,0.525,1.319,0.05561,Primary Transit
+148,HAT-P-10 A b,0.46,1.045,0.0439,Primary Transit
+149,HAT-P-11 b,0.0736,0.389,0.053,Primary Transit
+150,HAT-P-11 c,2.3,,4.13,Radial Velocity
+151,HAT-P-12 b,0.210489884529,0.949,0.0384,Primary Transit
+152,HAT-P-13 b,0.85,1.28,0.0426,Primary Transit
+153,HAT-P-14 b,2.444,1.01,0.0606,Primary Transit
+154,HAT-P-15 b,1.946,1.072,0.0964,Primary Transit
+155,HAT-P-16 b,4.193,1.289,0.0413,Primary Transit
+156,HAT-P-17 b,0.534,1.01,0.0882,Primary Transit
+157,HAT-P-18 b,0.183,0.947,0.0559,Primary Transit
+158,HAT-P-19 b,0.292,1.132,0.0466,Primary Transit
+159,HAT-P-2 b,8.74,0.951,0.0674,Primary Transit
+160,HAT-P-20 b,7.246,0.867,0.0361,Primary Transit
+161,HAT-P-21 b,4.063,1.024,0.0494,Primary Transit
+162,HAT-P-22 b,2.147,1.08,0.0414,Primary Transit
+163,HAT-P-23 b,2.09,1.368,0.0232,Primary Transit
+164,HAT-P-24 b,0.685,1.242,0.0465,Primary Transit
+165,HAT-P-25 b,0.567,1.19,0.0466,Primary Transit
+166,HAT-P-26 b,0.0585,0.5647,0.0479,Primary Transit
+167,HAT-P-27 b,0.66,1.055,0.0403,Primary Transit
+168,HAT-P-28 b,0.626,1.212,0.0434,Primary Transit
+169,HAT-P-29 b,0.778,1.107,0.0667,Primary Transit
+170,HAT-P-3 b,0.591,0.827,0.03866,Primary Transit
+171,HAT-P-30 b,0.711,1.34,0.0419,Primary Transit
+172,HAT-P-31 b,2.171,1.07,0.055,Primary Transit
+173,HAT-P-32 b,0.75,1.789,0.03427,Primary Transit
+174,HAT-P-33 b,0.763,1.827,0.0503,Primary Transit
+175,HAT-P-43 b,0.66,1.283,0.0443,Primary Transit
+176,HAT-P-34 b,3.328,1.107,0.0677,Primary Transit
+177,HAT-P-35 b,1.054,1.332,0.0498,Primary Transit
+178,HAT-P-36 b,1.832,1.264,0.0238,Primary Transit
+179,HAT-P-37 b,1.169,1.178,0.0379,Primary Transit
+180,HAT-P-38 b,0.267,0.825,0.0523,Primary Transit
+181,HAT-P-39 b,0.599,1.571,0.0509,Primary Transit
+182,HAT-P-4 b,0.68,1.27,0.0446,Primary Transit
+183,HAT-P-40 b,0.615,1.73,0.0608,Primary Transit
+184,HAT-P-41 b,0.8,1.685,0.0426,Primary Transit
+185,HAT-P-42 b,0.975,1.277,0.0575,Primary Transit
+186,HAT-P-44 b,0.392,1.28,0.0507,Primary Transit
+187,HAT-P-44 c,1.6,,0.699,Primary Transit
+188,HAT-P-45 b,0.892,1.426,0.0452,Primary Transit
+189,HAT-P-46 b,0.493,1.284,0.0577,Primary Transit
+190,HAT-P-46 c,2.0,,0.387,Primary Transit
+191,HAT-P-47 b,0.206,1.313,0.0615,Primary Transit
+192,HAT-P-48 b,0.168,1.131,0.0543,Primary Transit
+193,HAT-P-49 b,1.73,1.413,0.0438,Primary Transit
+194,HAT-P-5 b,1.06,1.252,0.04079,Primary Transit
+195,HAT-P-50 b,1.36,1.288,0.0453,Primary Transit
+196,HAT-P-51 b,0.309,1.293,0.05069,Primary Transit
+197,HAT-P-52 b,0.819,1.009,0.03694,Primary Transit
+198,HAT-P-53 b,1.487,1.318,0.03159,Primary Transit
+199,HAT-P-54 b,0.76,0.944,0.04117,Primary Transit
+200,HAT-P-55 b,0.582,1.182,0.04604,Primary Transit
+201,HAT-P-56 b,2.31,1.51,0.0423,Primary Transit
+202,HAT-P-57 b,1.85,1.413,0.0406,Primary Transit
+203,HAT-P-58 b,0.372,1.332,0.04994,Primary Transit
+204,HAT-P-59 b,1.54,1.123,0.05064,Primary Transit
+205,HAT-P-6 b,1.057,1.33,0.05235,Primary Transit
+206,HAT-P-60 b,0.574,1.631,0.06277,Primary Transit
+207,HAT-P-61 b,1.057,0.899,0.0301,Primary Transit
+208,HAT-P-62 b,0.761,1.073,0.03772,Primary Transit
+209,HAT-P-63 b,0.614,1.119,0.04294,Primary Transit
+210,HAT-P-64 b,0.58,1.703,0.05387,Primary Transit
+211,HAT-P-65 b,0.527,1.89,0.03951,Primary Transit
+212,HAT-P-66 b,0.783,1.59,0.04363,Primary Transit
+213,HAT-P-67 b,0.34,2.085,0.06505,Primary Transit
+214,HAT-P-68 b,0.724,1.072,0.02996,Primary Transit
+215,HAT-P-69 b,3.58,1.676,0.06555,Primary Transit
+216,HAT-P-7 b,1.741,1.431,0.0379,Primary Transit
+217,HAT-P-70 b,6.78,1.87,0.04739,Primary Transit
+218,HAT-P-8 b,1.34,1.5,0.0449,Primary Transit
+219,HAT-P-9 b,0.67,1.4,0.053,Primary Transit
+220,HATS-1 b,1.855,1.302,0.0444,Primary Transit
+221,HATS-10 b,0.526,0.969,0.0449,Primary Transit
+222,HATS-11 b,0.85,1.609,0.0507,Primary Transit
+223,HATS-12 b,2.38,0.692,0.0441,Primary Transit
+224,HATS-13 b,0.543,1.212,0.04057,Primary Transit
+225,HATS-14 b,1.071,1.039,0.03815,Primary Transit
+226,HATS-15 b,2.17,1.105,0.02712,Primary Transit
+227,HATS-16 b,3.27,1.3,0.03744,Primary Transit
+228,HATS-17 b,1.338,0.777,0.1308,Primary Transit
+229,HATS-18 b,1.98,1.337,0.01761,Primary Transit
+230,HATS-19 b,0.427,1.66,0.0589,Primary Transit
+231,HATS-2 b,1.345,1.168,0.023,Primary Transit
+232,HATS-20 b,0.273,0.776,0.04619,Primary Transit
+233,HATS-21 b,0.332,1.123,0.04676,Primary Transit
+234,HATS-22 b,2.74,0.953,0.05025,Primary Transit
+235,HATS-23 b,1.47,1.86,0.03397,Primary Transit
+236,HATS-24 b,2.44,1.487,0.02547,Primary Transit
+237,HATS-25 b,0.613,1.26,0.05163,Primary Transit
+238,HATS-26 b,0.65,1.75,0.04735,Primary Transit
+239,HATS-27 b,0.53,1.5,0.0611,Primary Transit
+240,HATS-28 b,0.672,1.194,0.04131,Primary Transit
+241,HATS-29 b,0.653,1.251,0.05475,Primary Transit
+242,HATS-3 b,1.071,1.381,0.0485,Primary Transit
+243,HATS-30 b,0.706,1.175,0.04354,Primary Transit
+244,HATS-31 b,0.88,1.64,0.0478,Primary Transit
+245,HATS-32 b,0.92,1.249,0.04024,Primary Transit
+246,HATS-33 b,1.192,1.23,0.03727,Primary Transit
+247,HATS-34 b,0.941,1.43,0.03166,Primary Transit
+248,HATS-35 b,1.222,1.464,0.03199,Primary Transit
+249,HATS-36 b,2.79,1.153,0.0523,Primary Transit
+250,HATS-37A b,0.099,0.606,0.04913,Primary Transit
+251,HATS-38 b,0.074,0.614,0.05036,Primary Transit
+252,HATS-39 b,0.63,1.57,0.06,Primary Transit
+253,HATS-4 b,1.323,1.02,0.0362,Primary Transit
+254,HATS-40 b,1.59,1.58,0.04997,Primary Transit
+255,HATS-41 b,9.7,1.33,0.0583,Primary Transit
+256,HATS-42 b,1.88,1.4,0.03689,Primary Transit
+257,HATS-43 b,0.261,1.18,0.04944,Primary Transit
+258,HATS-44 b,0.56,1.067,0.03649,Primary Transit
+259,HATS-45 b,0.7,1.286,0.05511,Primary Transit
+260,HATS-46 b,0.173,0.903,0.05367,Primary Transit
+261,HATS-47 b,0.369,1.117,0.04269,Primary Transit
+262,HATS-48A b,0.243,0.8,0.03769,Primary Transit
+263,HATS-49 b,0.353,0.765,0.04515,Primary Transit
+264,HATS-5 b,0.237,0.912,0.0542,Primary Transit
+265,HATS-50 b,0.39,1.13,0.05046,Primary Transit
+266,HATS-51 b,0.768,1.41,0.04639,Primary Transit
+267,HATS-52 b,2.24,1.382,0.02498,Primary Transit
+268,HATS-53 b,0.595,1.34,0.04753,Primary Transit
+269,HATS-54 b,0.76,1.067,0.03763,Primary Transit
+270,HATS-55 b,0.921,1.251,0.05412,Primary Transit
+271,HATS-56 b,0.602,1.688,0.06043,Primary Transit
+272,HATS-57 b,3.147,1.13,0.03493,Primary Transit
+273,HATS-58A b,1.03,1.095,0.05798,Primary Transit
+274,HATS-59 b,0.806,1.126,0.06112,Primary Transit
+275,HATS-6 b,0.319,0.998,0.03623,Primary Transit
+276,HATS-60 b,0.662,1.153,0.04708,Primary Transit
+277,HATS-61 b,3.4,1.195,0.07908,Primary Transit
+278,HATS-62 b,0.179,1.055,0.04163,Primary Transit
+279,HATS-63 b,0.96,1.207,0.04026,Primary Transit
+280,HATS-64 b,0.96,1.679,0.06562,Primary Transit
+281,HATS-65 b,0.821,1.501,0.04497,Primary Transit
+282,HATS-66 b,5.33,1.411,0.04714,Primary Transit
+283,HATS-67 b,1.45,1.685,0.03032,Primary Transit
+284,HATS-68 b,1.29,1.2321,0.05071,Primary Transit
+285,HATS-69 b,0.577,0.945,0.03211,Primary Transit
+286,HATS-7 b,0.12,0.563,0.04012,Primary Transit
+287,HATS-70 b,12.9,1.384,0.03632,Primary Transit
+288,HATS-71A b,0.45,1.08,0.03946,Primary Transit
+289,HATS-72 b,0.1254,0.7224,0.066517,Primary Transit
+290,HATS-74A b,1.46,1.032,0.02384,Primary Transit
+291,HATS-75 b,0.491,0.884,0.032742,Primary Transit
+292,HATS-76 b,2.629,1.079,0.02658,Primary Transit
+293,HATS-77 b,1.374,1.165,0.03607,Primary Transit
+294,HATS-8 b,0.138,0.873,0.04667,Primary Transit
+295,HATS-9 b,0.839,1.236,0.0312,Primary Transit
+296,HD 102195 b,0.46,,0.049,Radial Velocity
+297,HD 106315 b,0.03964,0.218,0.0907,Primary Transit
+298,HD 106315 c,0.04782,0.388,0.1536,Primary Transit
+299,HD 106906 (AB) b,11.0,,850.0,Imaging
+300,HD 10697 b,6.837,1.152,2.14,Radial Velocity
+301,HD 110113 b,0.01432,0.1829,0.035,Primary Transit
+302,HD 114783 b,6.3,,1.16,Radial Velocity
+303,HD 118203 b,2.173,1.133,0.07082,Radial Velocity
+304,HD 128311 c,4.19,,1.76,Radial Velocity
+305,HD 130322 b,1.05,,0.09,Radial Velocity
+306,HD 132406 b,6.7,,1.98,Radial Velocity
+307,HD 136352 b,0.01454,0.13222,0.0969,Radial Velocity
+308,HD 136352 c,0.03552,0.183854,0.1729,Radial Velocity
+309,HD 136352 d,0.02775,0.2284,0.4285,Radial Velocity
+310,HD 137496 b,0.01271,0.1169,0.02732,Primary Transit
+311,HD 1397 b,0.415,1.026,0.1097,Primary Transit
+312,HD 149026 b,0.357,0.718,0.04288,Primary Transit
+313,HD 152843 b,0.03637,0.3042,0.1053,Primary Transit
+314,HD 152843 c,0.0865,0.5201,,Primary Transit
+315,HD 154345 b,1.3,,4.3,Radial Velocity
+316,HD 163296 b,1.0,,94.0,Other
+317,HD 163296 c,0.3,,261.0,Other
+318,HD 164604 b,14.3,,1.331,Radial Velocity
+319,HD 169142 b,2.2,,36.4,Imaging
+320,HD 17156 b,3.195,1.095,0.1623,Primary Transit
+321,HD 175167 b,9.5,,2.4,Radial Velocity
+322,HD 176051 b,1.5,,1.76,Astrometry
+323,HD 181720 b,12.12,,1.78,Radial Velocity
+324,HD 183579 b,0.0302,0.3149,0.1334,Primary Transit
+325,HD 189733 b,1.138,1.138,0.031,Primary Transit
+326,HD 191939 b,0.0327,0.3024,0.078,Primary Transit
+327,HD 191939 c,0.0227,0.2748,0.17,Primary Transit
+328,HD 191939 d,0.0182,0.2712,0.207,Primary Transit
+329,HD 202206 (AB) c,17.9,,2.41,Radial Velocity
+330,HD 202772 A b,1.008,1.562,0.0519,Primary Transit
+331,HD 203030 b,11.0,,487.0,Imaging
+332,HD 207897 b,0.05,0.22348,0.1164,Primary Transit
+333,HD 208487 c,0.46,,1.8,Other
+334,HD 209458 b,0.69,1.38,0.04747,Radial Velocity
+335,HD 213885 b,0.02778,0.15568,0.02012,Primary Transit
+336,HD 219134 b,0.01343,0.134,0.037,Primary Transit
+337,HD 219134 c,0.01246,0.12624,0.062,Radial Velocity
+338,HD 219134 d,0.05236,,0.225,Radial Velocity
+339,HD 219134 f,0.0208,,0.139,Other
+340,HD 219666 b,0.0522,0.4202,0.06356,Primary Transit
+341,HD 221416 b,0.1904,0.836,0.1228,Primary Transit
+342,HD 23472 b,0.02618,0.16701,0.1162,Primary Transit
+343,HD 23472 c,0.01073,0.1668,0.1646,Primary Transit
+344,HD 23472 d,0.00173,0.0669,0.04298,Primary Transit
+345,HD 23472 e,0.00227,0.07298,0.68,Primary Transit
+346,HD 23472 f,0.00242,0.10144,,Primary Transit
+347,HD 260655 b,0.00673,0.1106,0.02933,Primary Transit
+348,HD 260655 c,0.00972,0.13677,0.04749,Primary Transit
+349,HD 2685 b,1.18,1.44,0.0568,Primary Transit
+350,HD 28109 b,0.058195,0.19618,0.1357,Primary Transit
+351,HD 3167 b,0.0158,0.152,0.0186,Primary Transit
+352,HD 3167 c,0.0308,0.255,0.1841,Primary Transit
+353,HD 332231 b,0.244,0.867,0.1436,Primary Transit
+354,HD 3651 b,0.23,,0.295,Radial Velocity
+355,HD 38529 b,0.93,,0.131,Radial Velocity
+356,HD 5278 b,0.0245,0.2186,0.12,Primary Transit
+357,HD 60532 b,9.21,,0.77,Radial Velocity
+358,HD 63935 b,0.034,0.2668,,Primary Transit
+359,HD 63935 c,0.0349,0.259,,Primary Transit
+360,HD 68988 c,15.0,,13.2,Radial Velocity
+361,HD 69830 b,0.1427,,0.0785,Radial Velocity
+362,HD 69830 c,0.1649,,0.186,Radial Velocity
+363,HD 69830 d,0.2529,,0.63,Radial Velocity
+364,HD 73583 b,0.0321,0.2489,0.0604,Primary Transit
+365,HD 73583 c,0.0302,0.2436,0.1233,Primary Transit
+366,HD 80606 b,4.1641,1.032,0.4603,Primary Transit
+367,HD 80653 b,0.01762,0.144,0.0166,Primary Transit
+368,HD 81040 b,8.04,,1.94,Radial Velocity
+369,HD 82943 b,14.5,,1.19,Radial Velocity
+370,HD 82943 c,14.39,,0.746,Radial Velocity
+371,HD 85628 A b,3.1,1.53,0.047,Primary Transit
+372,HD 89345 b,0.1123,0.612,0.105,Primary Transit
+373,HD 89744 b,10.32,,0.917,Radial Velocity
+374,HD 95086 b,2.6,,61.7,Imaging
+375,HD 95338 b,0.12406,0.3551,0.231,Primary Transit
+376,HD 97658 b,0.02457,0.20047,0.08,Primary Transit
+377,HIP 116454 b,0.0372,0.226,0.098,Primary Transit
+378,HIP 63734 b,11.0,,30.02,Imaging
+379,HIP 65426 b,7.1,1.5,87.0,Imaging
+380,HIP 65A b,3.213,2.03,0.01782,Primary Transit
+381,HIP 67522 b,5.0,0.8984,,Primary Transit
+382,HIP 75458 b,16.4,,1.448,Radial Velocity
+383,HIP 75458 c,17.0,,19.4,Radial Velocity
+384,HIP 94235 b,1.192,0.2862,0.0787,Primary Transit
+385,HIP 97166 b,0.063,0.2444,0.089,Primary Transit
+386,HN Peg b,16.0,1.1,795.0,Imaging
+387,HR 8799 b,7.0,1.2,68.0,Imaging
+388,HR 8799 c,8.3,1.3,42.9,Imaging
+389,HR 8799 d,8.3,1.2,27.0,Imaging
+390,HR 8799 e,9.6,1.17,16.4,Imaging
+391,ITG 15B,9.0,,,Imaging
+392,ITG 25B,18.0,,,Imaging
+393,J1324+63,11.5,1.23,,Imaging
+394,K2-10 b,0.08495,0.343,,Primary Transit
+395,K2-105 b,0.094,0.301,0.0796,Primary Transit
+396,K2-106 b,0.0263,0.162,0.0134,Primary Transit
+397,K2-106 c,0.018,0.244,0.1091,Primary Transit
+398,K2-107 b,0.84,1.426,0.0475,Primary Transit
+399,K2-108 b,0.187,0.476,0.0581,Primary Transit
+400,K2-110 b,0.0525,0.228,0.1027,Primary Transit
+401,K2-111 b,0.01664,0.162,0.057,Primary Transit
+402,K2-113 b,1.28,1.083,0.0642,Primary Transit
+403,K2-114 b,1.85,0.952,0.0954,Primary Transit
+404,K2-124 b,0.033,0.259,0.049,Primary Transit
+405,K2-137 b,0.5,0.079,0.0058,Primary Transit
+406,K2-132 b,0.49,1.3,0.0916,Primary Transit
+407,K2-133 b,0.0069,0.12,0.03194,Primary Transit
+408,K2-133 c,0.01,0.143,0.04341,Primary Transit
+409,K2-133 d,0.026,0.179,0.07487,Primary Transit
+410,K2-138 b,0.0098,0.14,0.0338,Primary Transit
+411,K2-138 c,0.0198,0.225,0.04454,Primary Transit
+412,K2-138 d,0.0249,0.237,0.05883,Primary Transit
+413,K2-138 e,0.0409,0.294,0.07807,Primary Transit
+414,K2-138 f,0.005,0.251,0.1043,Primary Transit
+415,K2-138 g,0.0135,0.2688,0.231,Primary Transit
+416,K2-139 b,0.381,0.813,0.1796,Primary Transit
+417,K2-140 b,0.93,1.093,0.0687,Primary Transit
+418,K2-141 b,0.01598,0.135,,Primary Transit
+419,K2-141 c,0.02328,0.624,,Primary Transit
+420,K2-146 b,0.01816,0.183,0.027,Primary Transit
+421,K2-146 c,0.02358,0.195,0.034,Primary Transit
+422,K2-155 b,0.0148,0.161,0.0562,Primary Transit
+423,K2-155 c,0.0205,0.232,0.0946,Primary Transit
+424,K2-155 d,0.0154,0.17,0.1937,Primary Transit
+425,K2-174 b,0.0289,0.232,0.126,Primary Transit
+426,K2-18 b,0.02807,0.211,0.1429,Primary Transit
+427,K2-180 b,0.036,0.206,0.0753,Primary Transit
+428,K2-182 b,0.063,0.24,0.0526,Primary Transit
+429,K2-19 b,0.1019,0.691,0.074,Primary Transit
+430,K2-19 c,0.034,0.434,0.0971,Primary Transit
+431,K2-19 d,0.031,0.102,0.0344,Primary Transit
+432,K2-199 b,0.0217,0.1543,0.0382,Primary Transit
+433,K2-199 c,0.039,0.2543,0.0662,Primary Transit
+434,K2-2016-BLG-0005L b,1.1,,4.18,Microlensing
+435,K2-216 b,0.02517,0.156,0.028,Primary Transit
+436,K2-22 b,1.4,0.223,0.0088,Primary Transit
+437,K2-222 b,0.025,0.2097,0.1211,Primary Transit
+438,K2-229 b,0.00815,0.102,0.0131,Primary Transit
+439,K2-229 c,0.067,0.181,0.0769,Primary Transit
+440,K2-229 d,0.079,0.2364,0.182,Primary Transit
+441,K2-231 b,0.0227,0.223,,Primary Transit
+442,K2-232 b,0.398,1.0,0.10356,Primary Transit
+443,K2-233 b,0.0104,0.125,0.03317,Primary Transit
+444,K2-233 d,0.0261,0.236,0.1527,Primary Transit
+445,K2-237 b,1.236,1.642,0.0353,Primary Transit
+446,K2-238 b,0.86,1.3,0.046,Primary Transit
+447,K2-239 b,0.0044,0.098,0.0441,Primary Transit
+448,K2-239 c,0.0028,0.089,0.0576,Primary Transit
+449,K2-239 d,0.0041,0.098,0.0685,Primary Transit
+450,K2-24 b,0.05978,0.482,0.154,Primary Transit
+451,K2-24 c,0.04845,0.669,0.247,Primary Transit
+452,K2-240 b,0.0157,0.178,0.0513,Primary Transit
+453,K2-240 c,0.0145,0.161,0.1159,Primary Transit
+454,K2-25 b,0.0771,0.306,,Primary Transit
+455,K2-260 b,1.42,1.552,0.0404,Primary Transit
+456,K2-261 b,0.223,0.85,0.102,Primary Transit
+457,K2-263 b,0.0466,0.215,0.2573,Primary Transit
+458,K2-265 b,0.02058,0.153,0.03376,Primary Transit
+459,K2-266 b,0.0355,0.294,0.01306,Primary Transit
+460,K2-266 c,0.00091,0.063,0.0679,Primary Transit
+461,K2-266 d,0.028,0.261,0.1035,Primary Transit
+462,K2-266 e,0.04499,0.244,0.1249,Primary Transit
+463,K2-27 b,0.09722,0.4,0.06702,Primary Transit
+464,K2-280 b,0.1167,0.684,0.1488,Primary Transit
+465,K2-285 b,0.03046,0.231,0.03817,Primary Transit
+466,K2-285 c,0.04933,0.315,0.0824,Primary Transit
+467,K2-285 d,0.02045,0.221,0.1178,Primary Transit
+468,K2-285 e,0.03367,0.174,0.18041,Primary Transit
+469,K2-286 b,0.0214,0.187,0.1768,Primary Transit
+470,K2-287 b,0.315,0.847,0.1206,Primary Transit
+471,K2-289 b,0.1529,0.812,0.107,Primary Transit
+472,K2-29 b,0.73,1.19,0.04217,Primary Transit
+473,K2-290 b,0.0343,0.273,0.0923,Primary Transit
+474,K2-290 c,0.774,1.006,0.305,Primary Transit
+475,K2-291 b,0.02042,0.142,0.03261,Primary Transit
+476,K2-292 b,0.07709,0.235,0.13,Primary Transit
+477,K2-295 b,0.335,0.897,0.0451,Primary Transit
+478,K2-3 b,0.02039,0.194,0.0775,Primary Transit
+479,K2-3 c,0.00673,0.165,0.1405,Primary Transit
+480,K2-3 d,0.00881,0.135,0.2086,Primary Transit
+481,OY Car b,8.48,,6.18,Pulsar
+482,K2-30 b,0.579,1.039,0.04839,Primary Transit
+483,K2-308 b,0.025,0.884,,Primary Transit
+484,K2-31 b,1.774,1.06,0.022,Primary Transit
+485,K2-314 b,0.02753,0.174,0.047,Primary Transit
+486,K2-314 c,0.04616,0.3274,0.13,Primary Transit
+487,K2-314 d,0.03203,0.3515,0.22,Primary Transit
+488,K2-32 b,0.047,0.443,0.08035,Primary Transit
+489,K2-32 c,0.0255,0.244,0.1399,Primary Transit
+490,K2-32 d,0.0211,0.292,0.1862,Primary Transit
+491,K2-32 e,0.0066,0.09,0.04951,Primary Transit
+492,K2-33 b,3.7,0.45,0.0409,Primary Transit
+493,K2-34 b,1.78,1.245,0.0426,Primary Transit
+494,K2-36 b,0.01227,0.128,0.0223,Primary Transit
+495,K2-36 c,0.02454,0.2783,0.054,Primary Transit
+496,K2-38 b,0.06,0.17,0.04994,Primary Transit
+497,K2-38 c,0.03115,0.216,0.0964,Primary Transit
+498,K2-39 b,0.09,0.56,0.062,Primary Transit
+499,K2-52 b,0.4046,1.606,0.054,Primary Transit
+500,K2-53 b,0.0289,0.232,0.098,Primary Transit
+501,K2-55 b,0.138,0.341,0.03486,Primary Transit
+502,K2-60 b,0.426,0.683,0.045,Primary Transit
+503,K2-66 b,0.06702,0.222,0.05983,Primary Transit
+504,K2-77 b,1.9,0.205,,Primary Transit
+505,K2-79 b,0.0371,0.3649,0.0987,Primary Transit
+506,K2-87 b,0.1192,0.678,0.094,Primary Transit
+507,K2-90 b,0.028,0.232,0.096,Primary Transit
+508,K2-95 b,1.67,0.346,0.0696,Primary Transit
+509,K2-97 b,1.1,0.947,0.086,Primary Transit
+510,K2-98 b,0.101,0.464,0.0974,Primary Transit
+511,K2-99 b,0.87,1.046,0.153,Primary Transit
+512,KELT-10 b,0.679,1.399,0.0525,Primary Transit
+513,KELT-11 b,0.195,1.3,0.06229,Primary Transit
+514,KELT-19 A b,4.07,1.91,,Primary Transit
+515,KELT-12 b,0.95,1.79,0.0617,Primary Transit
+516,KELT-15 b,0.92,1.443,0.04613,Primary Transit
+517,KELT-16 b,2.75,1.415,0.02044,Primary Transit
+518,KELT-17 b,1.31,1.525,0.04881,Primary Transit
+519,KELT-18 b,1.18,1.57,0.0455,Primary Transit
+520,KELT-2 A b,1.486,1.306,0.05498,Primary Transit
+521,KELT-21 b,3.91,1.586,0.05224,Primary Transit
+522,KELT-22A b,3.69,1.2,0.0248,Primary Transit
+523,KELT-23A b,0.938,1.323,0.03302,Primary Transit
+524,KELT-3 b,1.418,1.333,0.04117,Primary Transit
+525,KELT-4 A b,0.884,1.706,0.04321,Radial Velocity
+526,KELT-6 b,0.442,1.18,0.08,Primary Transit
+527,KELT-7 b,1.24,1.293,0.0446,Primary Transit
+528,KELT-8 b,0.874,1.86,0.04571,Primary Transit
+529,KELT-9 b,2.88,1.84,0.03368,Primary Transit
+530,KIC 5095269 (AB) b,7.698,,,Pulsar
+531,KMT-2016-BLG-1107 b,3.283,,0.342,Microlensing
+532,KMT-2016-BLG-1397 b,7.0,,5.1,Microlensing
+533,KMT-2016-BLG-1820 b,4.57,,1.08,Microlensing
+534,KMT-2016-BLG-1836L b,2.2,,3.5,Microlensing
+535,KMT-2016-BLG-2142 b,15.49,,0.83,Microlensing
+536,KMT-2016-BLG-2364 b,3.93,,2.63,Microlensing
+537,KMT-2016-BLG-2397 b,2.42,,2.83,Microlensing
+538,KMT-2016-BLG-2605 b,0.771,,0.681,Microlensing
+539,KMT-2017-BLG-0165L b,0.107,,3.45,Microlensing
+540,KMT-2017-BLG-0673L b,3.67,,2.34,Microlensing
+541,KMT-2017-BLG-1038 b,2.4,,1.9,Microlensing
+542,KMT-2017-BLG-1146 b,0.85,,1.7,Microlensing
+543,KMT-2017-BLG-2509 b,2.09,,2.14,Microlensing
+544,KMT-2019-BLG-2073,0.186,,,Microlensing
+545,KMT-2018-BLG-0029 b,0.02017,,3.94,Microlensing
+546,KMT-2018-BLG-0030 b,1.45,,4.39,Microlensing
+547,KMT-2018-BLG-0087 b,0.23,,0.87,Microlensing
+548,KMT-2018-BLG-0247 b,2.11,,2.46,Microlensing
+549,KMT-2018-BLG-0748 b,0.19,,0.62,Microlensing
+550,KMT-2018-BLG-1025L b,0.019064,,1.305,Microlensing
+551,KMT-2018-BLG-1292L b,4.9,,6.8,Microlensing
+552,KMT-2018-BLG-1743 b,0.925,,1.74,Microlensing
+553,KMT-2018-BLG-1976L b,1.96,,2.04,Microlensing
+554,KMT-2018-BLG-1988L b,0.0214,,2.83,Microlensing
+555,KMT-2018-BLG-1990L b,0.57,,7.2,Microlensing
+556,KMT-2018-BLG-2004 b,0.27,,4.62,Microlensing
+557,KMT-2018-BLG-2602 b,1.15,,3.81,Microlensing
+558,KMT-2018-BLG-2718 b,16.0,,4.86,Microlensing
+559,KMT-2018:BLG-1996L b,1.22,,1.97,Microlensing
+560,KMT-2019-BLG-0253 b,0.0289,,3.1,Microlensing
+561,KMT-2019-BLG-0371 b,16.5,,1.15,Microlensing
+562,KMT-2019-BLG-0414L b,4.42,,1.3,Microlensing
+563,KMT-2019-BLG-0842 b,10.28,,3.31,Microlensing
+564,KMT-2019-BLG-1042 b,0.19,,1.7,Microlensing
+565,KMT-2019-BLG-1339/OGLE-2019/BLG-1019 b,12.2,,0.67,Microlensing
+566,KMT-2019-BLG-1552 b,4.05,,2.6,Microlensing
+567,KMT-2019-BLG-1715 b,2.56,,3.32,Microlensing
+568,KMT-2019-BLG-1953L b,0.59,,0.8,Microlensing
+569,KMT-2019-BLG-1953L c,0.28,,0.8,Microlensing
+570,KMT-2019-BLG-2974 b,0.28,,2.0,Microlensing
+571,KMT-2020-BLG-0414 b,0.00381,,1.79,Microlensing
+572,KMT-2021-BLG-0119 b,5.7,,3.0,Microlensing
+573,KMT-2021-BLG-0171L b,0.0352,,3.5,Microlensing
+574,KMT-2021-BLG-0192 b,0.15,,2.6,Microlensing
+575,KMT-2021-BLG-0240 b,0.4,,2.6,Microlensing
+576,KMT-2021-BLG-0240 c,0.7,,4.0,Microlensing
+577,KMT-2021-BLG-0320 b,0.1,,2.0,Microlensing
+578,KMT-2021-BLG-0712 b,0.12016,,2.22,Microlensing
+579,KMT-2021-BLG-0748 b,0.45,,2.43,Microlensing
+580,KMT-2021-BLG-0909 b,1.26,,1.75,Microlensing
+581,KMT-2021-BLG-0912 b,6.92,,3.03,Microlensing
+582,KMT-2021-BLG-1077L b,0.22,,1.26,Microlensing
+583,KMT-2021-BLG-1077L c,0.25,,0.93,Microlensing
+584,KMT-2021-BLG-1105 b,1.3,,3.54,Microlensing
+585,KMT-2021-BLG-1253 b,0.05994,,1.52,Microlensing
+586,KMT-2021-BLG-1303 b,0.38,,2.89,Microlensing
+587,KMT-2021-BLG-1372 b,0.19278,,2.37,Microlensing
+588,KMT-2021-BLG-1554 b,0.12,,0.84,Microlensing
+589,KMT-2021-BLG-1689L b,0.145,,2.5,Microlensing
+590,KMT-2021-BLG-1898 b,0.76,,2.5,Microlensing
+591,KMT-2021-BLG-1931 b,0.01432,,2.29,Microlensing
+592,KMT-2021-BLG-2294 b,0.07,,1.05,Microlensing
+593,KMT-2021-BLG-2478 b,0.8,,1.38,Microlensing
+594,KOI-12 b,1.1,1.23,0.154,Primary Transit
+595,KOI-1257 b,1.45,0.94,0.382,Primary Transit
+596,KOI-13 b,9.28,1.512,0.03641,Primary Transit
+597,KOI-142 b,0.03,0.307,,Primary Transit
+598,KOI-142 c,0.674,,0.1529,Primary Transit
+599,KOI-1599.01,0.01447,0.17,0.14728,Primary Transit
+600,KOI-1599.02,0.02832,0.17,0.112293,Primary Transit
+601,KOI-1783 b,0.2234,0.7904,0.5187,Primary Transit
+602,KOI-1783 c,0.0472,0.4853,0.8539,TTV
+603,KOI-2700 b,0.00271,0.0946,,Primary Transit
+604,KOI-3680 b,1.93,0.99,0.534,Primary Transit
+605,KOI-4777,0.00107,0.0455,0.008,Primary Transit
+606,KOI-55 b,0.0014,0.068,0.006,Other
+607,KOI-55 c,0.0021,0.077,0.0076,Other
+608,KOI-984 b,0.0544,0.384,0.0504,Primary Transit
+609,KPS-1 b,1.09,1.03,0.0269,Primary Transit
+610,Kepler-10 b,0.0145,0.132,0.0172,Primary Transit
+611,Kepler-10 c,0.02319,0.2097,0.241,Primary Transit
+612,Kepler-100 b,0.023,0.118,,Primary Transit
+613,Kepler-100 c,0.02218,0.196,,Primary Transit
+614,Kepler-100 d,0.00944,0.144,,Primary Transit
+615,Kepler-101 b,0.16,0.51,0.0474,Primary Transit
+616,Kepler-101 c,0.01,0.112,0.0684,Primary Transit
+617,Kepler-102 b,0.01353,0.042,0.055,Primary Transit
+618,Kepler-102 c,0.00944,0.052,0.067,Primary Transit
+619,Kepler-102 d,0.012,0.105,,Primary Transit
+620,Kepler-102 e,0.028,0.198,0.117,Primary Transit
+621,Kepler-102 f,0.01636,0.079,0.165,Primary Transit
+622,Kepler-103 b,0.031,0.301,0.133,Primary Transit
+623,Kepler-103 c,0.114,0.459,0.6679,Primary Transit
+624,Kepler-104 b,0.0167,0.277,0.094,Primary Transit
+625,Kepler-104 c,0.0242,0.279,0.153,Primary Transit
+626,Kepler-104 d,0.0311,0.319,0.257,Primary Transit
+627,Kepler-105 b,0.016,0.429,0.066,Primary Transit
+628,Kepler-105 c,0.01447,0.117,0.072,Primary Transit
+629,Kepler-106 b,0.01668,0.073,,Primary Transit
+630,Kepler-106 c,0.033,0.223,,Primary Transit
+631,Kepler-106 d,0.02549,0.085,,Primary Transit
+632,Kepler-106 e,0.035,0.228,,Primary Transit
+633,Kepler-107 b,0.01104,0.137,0.04544,Primary Transit
+634,Kepler-107 c,0.02954,0.142,0.06064,Primary Transit
+635,Kepler-107 d,0.01196,0.077,0.08377,Primary Transit
+636,Kepler-107 e,0.02706,0.259,0.12639,Primary Transit
+637,Kepler-109 b,0.02297,0.211,,Primary Transit
+638,Kepler-109 c,0.06859,0.225,,Primary Transit
+639,Kepler-11 b,0.006,0.161,0.091,Primary Transit
+640,Kepler-11 c,0.009,0.256,0.107,Primary Transit
+641,Kepler-11 d,0.023,0.278,0.155,Primary Transit
+642,Kepler-11 e,0.025,0.374,0.195,Primary Transit
+643,Kepler-11 f,0.006,0.222,0.25,Primary Transit
+644,Kepler-11 g,0.079,0.297,0.466,Primary Transit
+645,Kepler-113 b,0.037,0.162,,Primary Transit
+646,Kepler-113 c,0.02737,0.194,,Primary Transit
+647,Kepler-114 b,0.022,0.112,0.053,Primary Transit
+648,Kepler-114 c,0.009,0.143,0.07,Primary Transit
+649,Kepler-114 d,0.012,0.226,0.09,Primary Transit
+650,Kepler-117 b,0.094,0.719,0.1445,Primary Transit
+651,Kepler-117 c,1.84,1.101,0.2804,Primary Transit
+652,Kepler-12 b,0.432,1.754,0.0553,Primary Transit
+653,Kepler-122 f,0.113,0.156,,TTV
+654,Kepler-128 b,0.00242,0.128,,Primary Transit
+655,Kepler-128 c,0.00283,0.12,,Primary Transit
+656,Kepler-131 b,0.051,0.215,,Primary Transit
+657,Kepler-131 c,0.026,0.075,,Primary Transit
+658,Kepler-138 b,0.00021,0.047,0.0746,Primary Transit
+659,Kepler-138 c,0.0062,0.107,,Primary Transit
+660,Kepler-138 d,0.00201,0.108,,Primary Transit
+661,Kepler-14 b,8.4,1.136,,Primary Transit
+662,Kepler-145 b,0.117,0.236,,Primary Transit
+663,Kepler-145 c,0.25,0.385,,Primary Transit
+664,Kepler-15 b,0.66,0.96,0.05714,Primary Transit
+665,Kepler-150 f,0.0283,0.325,1.24,Primary Transit
+666,Kepler-1514 b,5.28,1.108,0.753,Primary Transit
+667,Kepler-1520 b,6.3e-05,,0.013,Primary Transit
+668,Kepler-16 (AB) b,0.333,0.7538,0.7048,Primary Transit
+669,Kepler-160 d,0.31463,,0.17,TTV
+670,Kepler-1625 b,11.6,0.541,,Primary Transit
+671,Kepler-1647 (AB) b,1.52,1.06,2.7205,Primary Transit
+672,Kepler-1654 b,0.5,0.819,2.026,Primary Transit
+673,Kepler-1655 b,0.01573,0.197,0.103,Primary Transit
+674,Kepler-1656 b,0.1504,0.448,0.1974,Primary Transit
+675,Kepler-1656 c,0.3977,,3.053,Radial Velocity
+676,Kepler-1658 b,5.88,1.07,0.0544,Primary Transit
+677,Kepler-1661 (AB) b,0.053,,,Primary Transit
+678,Kepler-167 d,0.006,0.107,0.1405,Primary Transit
+679,Kepler-167 e,4.0,0.906,1.89,Primary Transit
+680,Kepler-17 b,2.45,1.31,0.02591,Primary Transit
+681,Kepler-1705 b,0.01406,0.1811,0.08,Primary Transit
+682,Kepler-1705 c,0.01705,0.1829,0.0416,Primary Transit
+683,Kepler-1708 b,4.6,0.8886,1.64,Primary Transit
+684,Kepler-177 b,0.01837,0.312,,Primary Transit
+685,Kepler-177 c,0.04625,0.779,,Primary Transit
+686,Kepler-18 b,0.022,0.178,0.0447,Primary Transit
+687,Kepler-18 c,0.054,0.49,0.0752,Primary Transit
+688,Kepler-18 d,0.052,0.623,0.1172,Primary Transit
+689,Kepler-19 b,0.02643,0.198,0.085,Primary Transit
+690,Kepler-19 c,0.04122,,,TTV
+691,Kepler-19 d,0.07079,,,Radial Velocity
+692,Kepler-197 c,0.017,0.11,0.09,Primary Transit
+693,Kepler-20 b,0.03052,0.167,0.0463,Primary Transit
+694,Kepler-20 c,0.04012,0.272,0.0949,Primary Transit
+695,Kepler-20 d,0.03168,0.245,0.3506,Primary Transit
+696,Kepler-20 e,0.0097,0.077,0.0639,Primary Transit
+697,Kepler-20 f,0.045,0.089,0.1396,Primary Transit
+698,Kepler-21 b,0.01598,0.146,0.042717,Primary Transit
+699,Kepler-22 b,0.113,0.212,0.849,Primary Transit
+700,Kepler-223 b,0.02328,0.267,0.073,Primary Transit
+701,Kepler-223 c,0.01605,0.307,0.088,Primary Transit
+702,Kepler-223 d,0.02517,0.467,0.116,Primary Transit
+703,Kepler-223 e,0.0151,0.41,0.14,Primary Transit
+704,Kepler-23 b,0.8,0.17,0.075,Primary Transit
+705,Kepler-23 c,2.7,0.285,0.099,Primary Transit
+706,Kepler-23 d,0.055,0.196,0.124,Primary Transit
+707,Kepler-238 e,0.534,0.5,,Primary Transit
+708,Kepler-238 f,0.042,0.178,,Primary Transit
+709,Kepler-24 b,1.6,0.214,0.08,Primary Transit
+710,Kepler-24 c,1.6,0.25,0.106,Primary Transit
+711,Kepler-25 b,0.0275,0.245,0.068,Primary Transit
+712,Kepler-25 c,0.0479,0.465,0.11,Primary Transit
+713,Kepler-25 d,0.226,,,Radial Velocity
+714,Kepler-26 b,0.01611,0.248,0.085,Primary Transit
+715,Kepler-26 c,0.01951,0.243,0.107,Primary Transit
+716,Kepler-27 b,9.11,0.357,0.118,Primary Transit
+717,Kepler-27 c,13.8,0.437,0.191,Primary Transit
+718,Kepler-276 c,0.052,0.259,,Primary Transit
+719,Kepler-276 d,0.051,0.25,,Primary Transit
+720,Kepler-277 b,0.275,0.261,,Primary Transit
+721,Kepler-277 c,0.202,0.3,,Primary Transit
+722,Kepler-278 b,0.176,0.363,0.207,Primary Transit
+723,Kepler-278 c,0.1098,0.32,0.294,Primary Transit
+724,Kepler-279 c,0.155,0.384,0.232,Primary Transit
+725,Kepler-279 d,0.118,0.277,0.30728,Primary Transit
+726,Kepler-28 b,1.51,0.321,0.062,Primary Transit
+727,Kepler-28 c,1.36,0.303,0.081,Primary Transit
+728,Kepler-282 d,0.192,0.219,,Primary Transit
+729,Kepler-282 e,0.177,0.277,,Primary Transit
+730,Kepler-289 b,0.023,0.192,0.21,Primary Transit
+731,Kepler-289 c,0.42,1.034,0.51,Primary Transit
+732,Kepler-289 d,0.013,0.239,0.33,Primary Transit
+733,Kepler-29 b,0.01573,0.227,0.09,Primary Transit
+734,Kepler-29 c,0.01416,0.209,0.11,Primary Transit
+735,Kepler-30 b,0.036,0.348,0.18,Primary Transit
+736,Kepler-30 c,2.01,1.097,0.3,Primary Transit
+737,Kepler-30 d,0.073,0.785,0.5,Primary Transit
+738,Kepler-305 b,0.033,0.321,0.05856,Primary Transit
+739,Kepler-305 c,0.019,0.294,0.07711,Primary Transit
+740,Kepler-307 b,0.02341,0.217,,Primary Transit
+741,Kepler-307 c,0.01145,0.196,,Primary Transit
+742,Kepler-31 c,4.7,0.473,0.26,Primary Transit
+743,Kepler-31 d,6.8,0.348,0.4,Primary Transit
+744,Kepler-32 b,4.1,0.196,0.05,Primary Transit
+745,Kepler-32 c,0.5,0.178,0.09,Primary Transit
+746,Kepler-328 b,0.09,0.205,,Primary Transit
+747,Kepler-328 c,0.124,0.482,,Primary Transit
+748,Kepler-338 b,0.0963,0.218,0.117,Primary Transit
+749,Kepler-338 e,0.027,0.139,,TTV
+750,Kepler-34 (AB) b,0.22,0.7637,1.0896,Primary Transit
+751,Kepler-35 (AB) b,0.1268,0.728,0.60347,Primary Transit
+752,Kepler-350 c,0.019,0.277,,Primary Transit
+753,Kepler-350 d,0.047,0.25,,Primary Transit
+754,Kepler-36 b,0.01205,0.134,0.1153,Primary Transit
+755,Kepler-36 c,0.02243,0.328,0.1283,Primary Transit
+756,Kepler-37 b,0.01,0.026,0.1003,Primary Transit
+757,Kepler-37 c,0.03776,0.067,0.1368,Primary Transit
+758,Kepler-37 d,0.017,0.173,0.2109,Primary Transit
+759,Kepler-38 (AB) b,0.38,0.39,0.4644,Primary Transit
+760,Kepler-391 c,1.416,0.316,0.161,Primary Transit
+761,Kepler-396 b,0.238,0.312,0.36709,Primary Transit
+762,Kepler-396 c,0.056,0.473,0.22662,Primary Transit
+763,Kepler-4 b,0.077,0.357,0.0456,Primary Transit
+764,Kepler-40 b,2.2,1.17,0.08,Primary Transit
+765,Kepler-406 b,0.02,0.128,,Primary Transit
+766,Kepler-406 c,0.009,0.076,,Primary Transit
+767,Kepler-407 b,0.01007,0.095,,Primary Transit
+768,Kepler-407 c,12.6,,,Radial Velocity
+769,Kepler-408 b,0.01573,0.073,,Primary Transit
+770,Kepler-409 b,0.06922,0.106,,Primary Transit
+771,Kepler-41 b,0.56,1.29,0.03101,Primary Transit
+772,Kepler-411 b,0.08055,0.214,0.0375,Primary Transit
+773,Kepler-411 c,0.08306,0.394,0.0739,Primary Transit
+774,Kepler-411 d,0.04782,0.296,0.279,Primary Transit
+775,Kepler-411 e,0.03398,,0.186,TTV
+776,Kepler-412 b,0.941,1.341,0.02897,Primary Transit
+777,Kepler-413 (AB) b,0.211,0.3881,0.3553,Primary Transit
+778,Kepler-414 b,0.011,0.153,,TTV
+779,Kepler-414 c,0.094,0.269,,TTV
+780,Kepler-415 b,0.377,0.108,,TTV
+781,Kepler-416 b,0.183,0.221,,TTV
+782,Kepler-417 b,0.035,0.206,,TTV
+783,Kepler-418 b,1.1,1.2,,Primary Transit
+784,Kepler-419 b,2.5,0.96,0.37,Primary Transit
+785,Kepler-419 c,7.3,,1.68,TTV
+786,Kepler-42 b,0.009,0.07,0.0116,Primary Transit
+787,Kepler-42 c,0.006,0.065,0.006,Primary Transit
+788,Kepler-42 d,0.003,0.051,0.0154,Primary Transit
+789,Kepler-422 b,0.43,1.15,0.082,Primary Transit
+790,Kepler-423 b,0.595,1.192,0.03585,Primary Transit
+791,Kepler-424 b,1.03,0.89,0.044,Primary Transit
+792,Kepler-425 b,0.25,0.978,0.0464,Primary Transit
+793,Kepler-426 b,0.34,1.09,0.0414,Primary Transit
+794,Kepler-427 b,0.29,1.23,0.091,Primary Transit
+795,Kepler-428 b,1.27,1.08,0.0433,Primary Transit
+796,Kepler-43 b,3.23,1.219,0.046,Primary Transit
+797,Kepler-432 b,5.41,1.145,0.301,Primary Transit
+798,Kepler-433 b,2.82,1.45,0.0679,Primary Transit
+799,Kepler-434 b,2.86,1.13,0.1143,Primary Transit
+800,Kepler-435 b,0.84,1.99,0.0948,Primary Transit
+801,Kepler-44 b,1.0,1.09,0.0446,Primary Transit
+802,Kepler-445 b,0.02,0.14,,Primary Transit
+803,Kepler-445 c,0.027,0.22,,Primary Transit
+804,Kepler-445 d,0.011,0.11,,Primary Transit
+805,Kepler-446 b,0.014,0.13,,Primary Transit
+806,Kepler-446 c,0.009,0.1,,Primary Transit
+807,Kepler-446 d,0.01,0.12,,Primary Transit
+808,Kepler-447 b,1.37,1.65,0.0769,Primary Transit
+809,Kepler-45 b,0.505,0.96,0.03,Primary Transit
+810,Kepler-453 (AB) b,0.03,0.55,,Primary Transit
+811,Kepler-454 b,0.01905,0.21,0.0954,Primary Transit
+812,Kepler-46 b,6.0,0.808,0.1968,Primary Transit
+813,Kepler-46 c,0.376,,0.2799,TTV
+814,Kepler-462 b,0.16959,0.268,,Primary Transit
+815,Kepler-462 c,0.01888,0.357,,Primary Transit
+816,Kepler-47 (AB) d,0.05984,0.6281,0.6992,Pulsar
+817,Kepler-48 b,0.0124,0.168,,Primary Transit
+818,Kepler-48 c,0.04597,0.242,,Primary Transit
+819,Kepler-48 d,0.025,0.182,,Primary Transit
+820,Kepler-48 e,2.067,,,Radial Velocity
+821,Kepler-49 b,0.98,0.243,,Primary Transit
+822,Kepler-49 c,0.72,0.227,,Primary Transit
+823,Kepler-5 b,2.111,1.426,0.0538,Primary Transit
+824,Kepler-50 b,0.1,0.153,0.077,Primary Transit
+825,Kepler-50 c,0.11,0.194,0.087,Primary Transit
+826,Kepler-51 b,0.007,0.633,0.2514,Primary Transit
+827,Kepler-51 c,0.013,0.803,0.384,Primary Transit
+828,Kepler-51 d,0.024,0.865,0.509,Primary Transit
+829,Kepler-52 b,8.7,0.187,,Primary Transit
+830,Kepler-52 c,10.41,0.164,,Primary Transit
+831,Kepler-53 b,18.41,0.258,,Primary Transit
+832,Kepler-53 c,15.74,0.283,,Primary Transit
+833,Kepler-538 b,0.03335,0.198,0.4669,Primary Transit
+834,Kepler-539 b,0.97,0.747,0.4988,Primary Transit
+835,Kepler-539 c,2.4,,2.42,TTV
+836,Kepler-54 b,0.92,0.187,,Primary Transit
+837,Kepler-54 c,0.37,0.11,,Primary Transit
+838,Kepler-55 b,1.49,0.217,,Primary Transit
+839,Kepler-55 c,1.11,0.197,,Primary Transit
+840,Kepler-56 b,0.07,0.581,0.1028,Primary Transit
+841,Kepler-56 c,0.57,0.874,0.1652,Primary Transit
+842,Kepler-57 b,18.86,0.195,,Primary Transit
+843,Kepler-57 c,6.95,0.138,,Primary Transit
+844,Kepler-58 b,1.39,0.248,,Primary Transit
+845,Kepler-58 c,2.19,0.255,,Primary Transit
+846,Kepler-59 b,2.05,0.098,0.112,Primary Transit
+847,Kepler-59 c,1.37,0.177,0.148,Primary Transit
+848,Kepler-595 b,0.05475,0.331,,Primary Transit
+849,Kepler-595 c,0.01038,0.09,,Primary Transit
+850,Kepler-6 b,0.668,1.304,0.04852,Primary Transit
+851,Kepler-60 b,0.01318,0.153,0.07497,Primary Transit
+852,Kepler-60 c,0.01211,0.17,0.08701,Primary Transit
+853,Kepler-60 d,0.01309,0.178,0.10548,Primary Transit
+854,Kepler-62 b,0.03,0.117,0.0553,Primary Transit
+855,Kepler-62 c,0.013,0.048,0.0929,Primary Transit
+856,Kepler-62 d,0.044,0.174,0.12,Primary Transit
+857,Kepler-62 e,0.113,0.144,0.427,Primary Transit
+858,Kepler-62 f,0.11,0.126,0.718,Primary Transit
+859,Kepler-63 b,0.378,0.545,0.08,Primary Transit
+860,Kepler-64 (AB) b,0.53,0.553,0.634,Primary Transit
+861,Kepler-65 d,0.034,0.136,0.084,Primary Transit
+862,Kepler-65 e,0.82,,,Radial Velocity
+863,Kepler-66 b,0.047,0.25,0.1352,Primary Transit
+864,Kepler-67 b,0.047,0.262,0.1171,Primary Transit
+865,Kepler-68 b,0.02407,0.206,0.0617,Primary Transit
+866,Kepler-68 c,0.00642,0.0827,0.09059,Primary Transit
+867,Kepler-7 b,0.441,1.622,0.06067,Primary Transit
+868,Kepler-74 b,0.63,0.96,0.0781,Primary Transit
+869,Kepler-75 b,10.1,1.05,0.0818,Primary Transit
+870,Kepler-76 b,2.01,1.36,0.0274,Other
+871,Kepler-77 b,0.43,0.96,0.04501,Primary Transit
+872,Kepler-78 b,0.00619,0.1,0.01,Primary Transit
+873,Kepler-79 b,0.0343,0.31,0.117,Primary Transit
+874,Kepler-79 c,0.019,0.332,0.187,Primary Transit
+875,Kepler-79 d,0.019,0.639,0.287,Primary Transit
+876,Kepler-79 e,0.013,0.311,0.386,Primary Transit
+877,Kepler-8 b,0.59,1.416,0.0474,Primary Transit
+878,Kepler-80 b,0.0218,0.238,0.0648,Primary Transit
+879,Kepler-80 c,0.02121,0.244,0.0792,Primary Transit
+880,Kepler-80 d,0.02124,0.136,0.0372,Primary Transit
+881,Kepler-80 e,0.01299,0.143,0.0491,Primary Transit
+882,Kepler-82 b,0.03823,0.363,0.1683,Primary Transit
+883,Kepler-82 c,0.04373,0.476,0.2626,Primary Transit
+884,Kepler-82 f,0.06576,,0.3395,TTV
+885,Kepler-85 b,0.0465,0.176,0.07891,Primary Transit
+886,Kepler-85 c,0.059,0.194,0.10369,Primary Transit
+887,Kepler-86 b,0.34235,0.8466,0.824,Primary Transit
+888,Kepler-87 b,1.02,1.204,0.481,Primary Transit
+889,Kepler-87 c,0.02,0.548,0.676,Primary Transit
+890,Kepler-88 d,3.05,,2.464,Radial Velocity
+891,Kepler-89 b,0.033,0.153,0.05119,Primary Transit
+892,Kepler-89 c,0.049,0.385,0.1013,Primary Transit
+893,Kepler-89 d,0.334,1.005,0.1684,Primary Transit
+894,Kepler-89 e,0.11,0.585,0.3046,Primary Transit
+895,Kepler-9 b,0.13655,0.74,0.143,Primary Transit
+896,Kepler-9 c,0.09408,0.721,0.227,Primary Transit
+897,Kepler-9 d,0.016518264481,0.146,0.0273,Primary Transit
+898,Kepler-91 b,0.81,1.367,0.0731,Primary Transit
+899,Kepler-92 b,0.202,0.313,,Primary Transit
+900,Kepler-92 c,0.019,0.232,,Primary Transit
+901,Kepler-93 b,0.0143,0.14,0.053,Primary Transit
+902,Kepler-93 c,3.0,,16.6,Radial Velocity
+903,Kepler-94 b,0.034,0.313,,Primary Transit
+904,Kepler-94 c,9.836,,,Radial Velocity
+905,Kepler-95 b,0.041,0.305,,Primary Transit
+906,Kepler-96 b,0.027,0.238,,Primary Transit
+907,Kepler-97 b,0.011,0.132,,Primary Transit
+908,Kepler-97 c,1.08,,,Radial Velocity
+909,Kepler-98 b,0.011,0.178,,Primary Transit
+910,Kepler-99 b,0.019,0.132,,Primary Transit
+911,L 168-9 b,0.0145,0.124,0.02091,Primary Transit
+912,L 98-59 b,0.0013,0.0758,0.02191,Primary Transit
+913,L 98-59 c,0.00698,0.12356,0.0304,Primary Transit
+914,L 98-59 d,0.0061,0.1357,0.0486,Primary Transit
+915,L2 Pup b,12.0,,2.0,Imaging
+916,LHS 1140 b,0.02196,0.15407,0.0936,Primary Transit
+917,LHS 1140 c,0.00569,0.11437,0.02675,Primary Transit
+918,LHS 1478 b,0.00733,0.1106,0.01848,Primary Transit
+919,LHS 1678 b,0.00019,0.06209,0.01251,Primary Transit
+920,LHS 1678 c,0.00123,0.08761,0.0331,Primary Transit
+921,LHS 1815 b,0.0132,0.09707,0.0404,Primary Transit
+922,LKCA 15 b,6.0,,15.7,Imaging
+923,LP 714-47 b,0.0969,0.419,0.0417,Primary Transit
+924,LP 890-9 b,0.0415,0.1178,0.01875,Primary Transit
+925,LP 890-9 c,0.0796,0.12196,0.03984,Primary Transit
+926,LTT 1445A b,0.00903,0.11643,0.03813,Primary Transit
+927,LTT 1445A c,0.00485,0.10233,0.0266,Primary Transit
+928,LTT 3780 b,0.00982,0.11883,0.012,Primary Transit
+929,LTT 3780 c,0.0267,0.205,0.077,Primary Transit
+930,LTT 9779 b,0.09225,0.4211,0.01679,Primary Transit
+931,Lupus-TR-3 b,0.81,0.89,0.0464,Other
+932,MASCARA-1 b,3.7,1.5,0.043,Primary Transit
+933,MASCARA-2 b/KELT-20 b,3.518,1.83,0.0542,Primary Transit
+934,MASCARA-3 b,5.18,1.272,0.06971,Primary Transit
+935,MOA-2007-BLG-192L b,0.01,,0.66,Microlensing
+936,MOA-2007-BLG-400L b,1.71,,3.9,Microlensing
+937,MOA-2008-BLG-310L b,0.233,,1.25,Microlensing
+938,MOA-2008-BLG-379L b,4.1,,3.3,Microlensing
+939,MOA-2009-BLG-266L b,0.0327,,3.2,Microlensing
+940,MOA-2009-BLG-319L b,0.208,,2.0,Microlensing
+941,MOA-2009-BLG-387L b,2.6,,1.8,Microlensing
+942,MOA-2010-BLG-073L b,11.0,,1.21,Other
+943,MOA-2010-BLG-117 b,0.51,,2.9,Microlensing
+944,MOA-2010-BLG-328L b,0.029,,0.92,Microlensing
+945,MOA-2010-BLG-353L b,0.27,,1.72,Microlensing
+946,MOA-2010-BLG-477L b,1.4,,2.8,Microlensing
+947,MOA-2011-BLG-028L b,0.094,,7.14,Microlensing
+948,MOA-2011-BLG-262L b,0.0566340496492,,0.84,Microlensing
+949,MOA-2011-BLG-274 b,0.8,,40.0,Microlensing
+950,MOA-2011-BLG-291 b,0.085,,1.4,Microlensing
+951,MOA-2011-BLG-293L b,4.8,,1.1,Microlensing
+952,MOA-2011-BLG-322L b,7.8,,3.6,Microlensing
+953,MOA-2012-BLG-006 b,8.4,,10.2,Microlensing
+954,MOA-2012-BLG-505L b,6.7,,1.12,Microlensing
+955,MOA-2013-BLG-220L b,2.74,,3.03,Microlensing
+956,MOA-2013-BLG-605L b,0.066,,4.2,Microlensing
+957,MOA-2014-BLG-472 b,1.9,,0.96,Microlensing
+958,MOA-2015-BLG-337 a,9.8,,0.24,Microlensing
+959,MOA-2015-BLG-337 b,0.106,,0.24,Microlensing
+960,MOA-2016-BLG-227L b,2.3,,1.64,Microlensing
+961,MOA-2016-BLG-231 b,9.0,,0.88,Microlensing
+962,MOA-2016-BLG-319L b,0.62,,0.95,Microlensing
+963,MOA-2020-BLG-135 b,0.0356,,1.11,Microlensing
+964,MOA-2020-BLG-208 b,0.2168,,2.88,Microlensing
+965,MOA-bin-1L b,3.7,,8.3,Microlensing
+966,MOA-bin-29 b,0.55,,1.13,Microlensing
+967,NGTS-1 b,0.812,1.33,0.0326,Primary Transit
+968,NGTS-10 b,2.162,1.205,0.0143,Primary Transit
+969,NGTS-11 b,0.37,0.823,0.2,Primary Transit
+970,NGTS-12 b,0.208,1.048,0.0757,Primary Transit
+971,NGTS-13 b,4.84,1.142,0.0549,Primary Transit
+972,NGTS-14A b,0.092,0.44,0.0403,Primary Transit
+973,NGTS-15 b,0.751,1.1,0.0441,Primary Transit
+974,NGTS-16 b,0.667,1.3,0.0523,Primary Transit
+975,NGTS-17 b,0.764,1.24,0.0391,Primary Transit
+976,NGTS-18 b,0.409,1.21,0.0448,Primary Transit
+977,NGTS-2 b,0.67,1.536,0.0584,Primary Transit
+978,NGTS-20 b,2.98,1.07,0.313,Primary Transit
+979,NGTS-21 b,2.36,1.33,0.0236,Primary Transit
+980,NGTS-3A b,2.38,1.48,0.023,Primary Transit
+981,NGTS-4 b,0.0648,0.2837,0.019,Primary Transit
+982,NGTS-5 b,0.229,1.136,0.0382,Primary Transit
+983,NGTS-6 b,1.33,1.271,0.016623018,Primary Transit
+984,NGTS-8 b,0.93,1.09,0.035,Primary Transit
+985,NGTS-9 b,2.9,1.07,0.058,Primary Transit
+986,NLTT 25473 b,15.0,,,Radial Velocity
+987,NN Ser (AB) c,6.91,,5.38,Pulsar
+988,NN Ser (AB) d,2.28,,3.39,Pulsar
+989,OGLE-2009-BLG-151L b,7.5,,0.31,Microlensing
+990,NY Vir (AB) b,2.78,,3.39,Pulsar
+991,NY Vir (AB) c,4.49,,7.54,Pulsar
+992,OGLE--2018-BLG-0516 b,0.0632,,2.2,Microlensing
+993,OGLE-2003-BLG-235L b,2.6,,5.1,Microlensing
+994,OGLE-2005-071L b,3.5,,3.6,Microlensing
+995,OGLE-2005-169L b,0.0444,,4.0,Microlensing
+996,OGLE-2005-390L b,0.017,,2.1,Microlensing
+997,OGLE-2006-109L b,0.727,,2.3,Microlensing
+998,OGLE-2006-109L c,0.271,,4.5,Microlensing
+999,OGLE-2006-BLG-284 b,0.453,,2.2,Microlensing
+1000,OGLE-2007-BLG-349L (AB) b,0.25,,2.59,Microlensing
+1001,OGLE-2007-BLG-368L b,0.0694,,3.3,Microlensing
+1002,OGLE-2008-BLG-092L A b,0.18,,15.0,Microlensing
+1003,OGLE-2008-BLG-355L b,4.6,,1.7,Microlensing
+1004,OGLE-2011-BLG-0173L b,0.19,,10.0,Microlensing
+1005,OGLE-2011-BLG-0251L b,0.96,,3.86,Microlensing
+1006,OGLE-2011-BLG-0265L b,0.88,,1.89,Microlensing
+1007,OGLE-2011-BLG-0420L b,9.4,,0.19,Microlensing
+1008,OGLE-2012-BLG-0026L b,0.11,,3.82,Microlensing
+1009,OGLE-2012-BLG-0026L c,0.68,,4.63,Microlensing
+1010,OGLE-2012-BLG-0358L b,1.85,,0.87,Microlensing
+1011,OGLE-2012-BLG-0406L b,2.73,,3.45,Microlensing
+1012,OGLE-2012-BLG-0563L b,0.39,,0.74,Microlensing
+1013,OGLE-2012-BLG-0724L b,0.47,,1.6,Microlensing
+1014,OGLE-2012-BLG-0838 b,0.25,,4.2,Microlensing
+1015,OGLE-2012-BLG-0950L b,0.11,,2.7,Microlensing
+1016,OGLE-2012-BLG-1323,0.0072,,,Microlensing
+1017,OGLE-2013-BLG-0102L b,13.6,,0.8,Microlensing
+1018,OGLE-2013-BLG-0132L b,0.29,,3.6,Microlensing
+1019,OGLE-2013-BLG-0341L b,0.00522291791209,,0.702,Microlensing
+1020,OGLE-2013-BLG-0911L b,10.08,,10.8,Microlensing
+1021,OGLE-2013-BLG-1721L b,0.64,,2.6,Microlensing
+1022,OGLE-2013-BLG-1761L b,2.8,,1.8,Microlensing
+1023,OGLE-2014-BLG-0124L b,0.64,,3.48,Microlensing
+1024,OGLE-2014-BLG-0319 b,0.57,,3.49,Microlensing
+1025,OGLE-2014-BLG-0676L b,3.68,,4.53,Microlensing
+1026,OGLE-2014-BLG-1186L b,0.142,,,Microlensing
+1027,OGLE-2014-BLG-1722L b,0.174,,1.9,Microlensing
+1028,OGLE-2014-BLG-1722L c,0.2633,,2.5,Microlensing
+1029,OGLE-2014-BLG-1760L b,0.573,,1.75,Microlensing
+1030,OGLE-2015-BLG-0051L b,0.72,,0.73,Microlensing
+1031,OGLE-2015-BLG-0954L b,4.4,,1.2,Microlensing
+1032,OGLE-2015-BLG-0966L b,0.066,,2.4,Microlensing
+1033,OGLE-2015-BLG-1649 b,2.54,,2.07,Microlensing
+1034,OGLE-2015-BLG-1670L b,0.0563,,3.2,Microlensing
+1035,OGLE-2015-BLG-1771L b,0.433,,0.85,Microlensing
+1036,OGLE-2016-BLG-0263L b,4.1,,6.5,Microlensing
+1037,OGLE-2016-BLG-0613L (AB) b,4.18,,6.4,Microlensing
+1038,OGLE-2016-BLG-1067L b,0.43,,1.7,Microlensing
+1039,OGLE-2016-BLG-1093L b,0.71,,2.13,Microlensing
+1040,OGLE-2016-BLG-1190L b,13.38,,2.17,Microlensing
+1041,OGLE-2016-BLG-1195L b,0.0045,,1.16,Microlensing
+1042,OGLE-2016-BLG-1227 b,0.79,,3.4,Microlensing
+1043,OGLE-2016-BLG-1266L b,11.9,,0.42,Microlensing
+1044,OGLE-2016-BLG-1469L b,13.6,,0.33,Microlensing
+1045,OGLE-2016-BLG-1928,0.0009,,,Microlensing
+1046,OGLE-2016-BLG-596L b,12.2,,,Microlensing
+1047,OGLE-2017-BLG-0173L b,9.08,,3.75,Microlensing
+1048,OGLE-2017-BLG-0406 b,0.41,,3.5,Microlensing
+1049,OGLE-2017-BLG-0482 b,9.0,,1.8,Microlensing
+1050,OGLE-2017-BLG-0560,1.9,,,Microlensing
+1051,OGLE-2017-BLG-0604 b,0.51,,4.06,Microlensing
+1052,OGLE-2017-BLG-0896,19.0,,,Microlensing
+1053,OGLE-2017-BLG-1049 b,5.53,,3.92,Microlensing
+1054,OGLE-2017-BLG-1099 b,3.02,,2.73,Microlensing
+1055,OGLE-2017-BLG-1140L b,1.63,,1.02,Microlensing
+1056,OGLE-2017-BLG-1375 b,10.33,,2.97,Microlensing
+1057,OGLE-2017-BLG-1434L b,0.014,,1.18,Microlensing
+1058,OGLE-2017-BLG-1522L b,0.75,,0.59,Microlensing
+1059,OGLE-2018-BLG-0298 b,0.14,,2.86,Microlensing
+1060,OGLE-2018-BLG-0383 b,0.0201,,1.8,Microlensing
+1061,OGLE-2018-BLG-0506 b,0.0513,,3.0,Microlensing
+1062,OGLE-2018-BLG-0532 b,0.019636,,1.083,Microlensing
+1063,OGLE-2018-BLG-0567L b,0.32,,2.72,Microlensing
+1064,OGLE-2018-BLG-0596 b,0.0267,,2.15,Microlensing
+1065,OGLE-2018-BLG-0677L b,0.01246,,0.63,Microlensing
+1066,OGLE-2018-BLG-0740L b,4.5,,4.2,Microlensing
+1067,OGLE-2018-BLG-0799 b,0.41,,1.38,Microlensing
+1068,OGLE-2018-BLG-0932/KMT-2018-BLG-2087/MOA-2018-BLG-163 b,0.89,,1.75,Microlensing
+1069,OGLE-2018-BLG-0962,1.37,,3.57,Microlensing
+1070,OGLE-2018-BLG-0977 b,0.0201,,2.0,Microlensing
+1071,OGLE-2018-BLG-1119 b,0.91,,4.06,Microlensing
+1072,OGLE-2018-BLG-1126/KMT-2018-BLG-2064 b,0.056,,3.23,Microlensing
+1073,OGLE-2018-BLG-1185 b,0.0264,,1.537,Microlensing
+1074,OGLE-2018-BLG-1212/MOA-2018-BLG-365/KMT-2018-BLG-2299,0.2,,1.68,Microlensing
+1075,OGLE-2018-BLG-1269L b,0.69,,4.61,Microlensing
+1076,OGLE-2018-BLG-1367/KMT62018-BLG-0914,0.95,,1.21,Microlensing
+1077,OGLE-2018-BLG-1428L b,0.77,,3.3,Microlensing
+1078,OGLE-2018-BLG-1544 b,11.2,,6.21,Microlensing
+1079,OGLE-2018-BLG-1647/KMT-2018-BLG-2060,0.97,,1.36,Microlensing
+1080,OGLE-2018-BLG-1700L b,4.4,,2.8,Microlensing
+1081,OGLE-2018BLG-1011L b,1.8,,1.8,Microlensing
+1082,OGLE-2018BLG-1011L c,2.8,,0.8,Microlensing
+1083,OGLE-2019-BLG-0299 b,6.22,,2.8,Microlensing
+1084,OGLE-2019-BLG-0362 b,3.3,,2.7,Microlensing
+1085,OGLE-2019-BLG-0468L b,3.43,,3.29,Microlensing
+1086,OGLE-2019-BLG-0468L c,10.22,,2.77,Microlensing
+1087,OGLE-2019-BLG-0551,0.0242,,,Microlensing
+1088,OGLE-2019-BLG-0954L b,14.2,,2.65,Microlensing
+1089,OGLE-2019-BLG-0960 b,0.00708,,1.6,Microlensing
+1090,OGLE-2019-BLG-1053L b,0.0078,,3.4,Microlensing
+1091,OGLE-2019-BLG-1470LAB b,2.2,,3.1,Microlensing
+1092,OGLE-2019-BLG-1492 b,0.1167,,2.7,Microlensing
+1093,OGLE-TR-10 b,0.68,1.72,0.04162,Primary Transit
+1094,OGLE-TR-111 b,0.54,1.077,0.047,Primary Transit
+1095,OGLE-TR-113 b,1.24,1.11,0.0229,Primary Transit
+1096,OGLE-TR-132 b,1.17,1.23,0.0306,Primary Transit
+1097,OGLE-TR-182 b,1.06,1.47,0.051,Primary Transit
+1098,OGLE-TR-211 b,0.75,1.26,0.051,Primary Transit
+1099,OGLE-TR-56 b,1.3,1.2,0.0225,Primary Transit
+1100,OGLE2-TR-L9 b,4.34,1.614,0.0404,Primary Transit
+1101,Oph 98 b,7.8,1.86,200.0,Imaging
+1102,PDS 70 b,7.0,,22.7,Imaging
+1103,PDS 70 c,4.4,,30.2,Imaging
+1104,POTS-1 b,2.31,0.941,0.03734,Primary Transit
+1105,PSR 1257 12 b,7e-05,,0.19,Pulsar
+1106,PSR B1620-26 (AB) b,2.5,,23.0,Pulsar
+1107,PSR 1257 12 c,0.013,,0.36,Pulsar
+1108,PSR 1257 12 d,0.012,,0.46,Pulsar
+1109,PSR 1719-14 b,1.0,0.4,0.0044,Pulsar
+1110,PSR J1311-3430 b,12.0,,,Radial Velocity
+1111,PSR J1807-2459 A b,9.4,,,Pulsar
+1112,PSR J2241-5236 b,12.0,,,Pulsar
+1113,Proplyd 133-353,13.0,,,Imaging
+1114,Qatar-1 b,1.294,1.143,0.02332,Primary Transit
+1115,Qatar-10 b,0.736,1.534,0.0286,Primary Transit
+1116,Qatar-2 b,2.494,1.254,0.02153,Primary Transit
+1117,Qatar-3 b,4.31,1.096,0.03783,Primary Transit
+1118,Qatar-4 b,5.85,1.552,0.02861,Primary Transit
+1119,Qatar-5 b,4.32,1.107,0.04127,Primary Transit
+1120,Qatar-6 A b,0.668,1.062,0.0423,Primary Transit
+1121,Qatar-7 b,1.88,1.7,0.0352,Primary Transit
+1122,Qatar-8 b,0.371,1.285,0.0474,Primary Transit
+1123,Qatar-9 b,1.19,1.009,0.0234,Primary Transit
+1124,ROXs 12 b,16.0,,210.0,Imaging
+1125,ROXs 42B (AB) b,9.0,2.5,140.0,Imaging
+1126,Ross 458 (AB) c,11.3,1.07,1168.0,Imaging
+1127,S Ori 68,5.0,,1700.0,Imaging
+1128,SDSS J1110+0116,11.0,1.18,,Imaging
+1129,SIMP0136+0933,12.7,,,Imaging
+1130,SR 12 (AB) c,13.0,,1083.0,Imaging
+1131,SWEEPS-04 b,3.8,0.81,0.055,Primary Transit
+1132,SWEEPS-11 b,9.7,1.13,0.03,Primary Transit
+1133,TCP J050742+244755 b,0.06,,0.775,Microlensing
+1134,TIC 156514476.01,0.02973,,,Primary Transit
+1135,TIC 172900988 (AB) b,2.84,0.9876,0.867,Pulsar
+1136,TIC 237913194 b,1.942,1.117,0.1207,Primary Transit
+1137,TOI-1062 b,0.032,0.20198,0.052,Primary Transit
+1138,TOI-1064 b,0.0425,0.2308,0.06152,Primary Transit
+1139,TOI-1064 c,0.0079,0.23651,0.09429,Primary Transit
+1140,TOI-1075 b,0.013,0.1534,0.0118,Primary Transit
+1141,TOI-1107 b,3.35,1.3,0.0561,Primary Transit
+1142,TOI-1130 c,0.974,1.5,0.07098,Primary Transit
+1143,TOI-1136 b,0.00947,0.17,,Primary Transit
+1144,TOI-1136 c,0.019,0.25685,,Primary Transit
+1145,TOI-1136 d,0.025,0.4128,,Primary Transit
+1146,TOI-1136 e,0.017,0.23544,,Primary Transit
+1147,TOI-1136 f,0.0261,0.3462,,Primary Transit
+1148,TOI-1136 g,0.0151,0.2257,,Primary Transit
+1149,TOI-1181 b,1.18,1.3,,Primary Transit
+1150,TOI-1201 b,0.01976,0.21545,0.0287,Primary Transit
+1151,TOI-122 b,0.0277,0.2427,0.0392,Primary Transit
+1152,TOI-1221 b,3.5,0.2596,0.39,Primary Transit
+1153,TOI-1231 b,0.0485,0.3256,0.1288,Primary Transit
+1154,TOI-1235 b,0.0186,0.15113,0.03826,Primary Transit
+1155,TOI-1238 b,0.01183,0.1079,0.0139,Primary Transit
+1156,TOI-1238 c,0.02618,0.1882,0.037,Primary Transit
+1157,TOI-1246 b,0.0255,0.2685,0.049,Primary Transit
+1158,TOI-1246 c,0.0277,0.2239,0.061,Primary Transit
+1159,TOI-1246 d,0.0167,0.3131,0.131,Primary Transit
+1160,TOI-1246 e,0.0466,0.3372,0.211,Primary Transit
+1161,TOI-125 b,0.0299,0.2432,0.05186,Primary Transit
+1162,TOI-125 c,0.02086,0.24614,0.0814,Primary Transit
+1163,TOI-125 d,0.0428,0.2614,0.137,Primary Transit
+1164,TOI-1259A b,0.441,1.022,0.0407,Primary Transit
+1165,TOI-1260 b,0.02709,0.20832,0.0366,Primary Transit
+1166,TOI-1260 c,0.03725,0.2516,0.0656,Primary Transit
+1167,TOI-1266 b,0.05,0.2114,0.0736,Primary Transit
+1168,TOI-1266 c,0.0201,0.1392,0.1058,Primary Transit
+1169,TOI-1268 b,0.29,0.82,0.072,Primary Transit
+1170,TOI-1272 b,0.0774,0.3693,0.0412,Primary Transit
+1171,TOI-1278 b,18.5,1.09,0.095,Primary Transit
+1172,TOI-1298 b,0.356,0.841,0.059,Primary Transit
+1173,TOI-132 b,0.07183,0.306,0.026,Primary Transit
+1174,TOI-1333 b,2.37,1.396,0.0626,Primary Transit
+1175,TOI-1338 b,0.095,0.5986,0.4491,Primary Transit
+1176,TOI-1411 b,0.0079,0.1213,0.023,Primary Transit
+1177,TOI-1422 b,0.028,0.3533,0.108,Primary Transit
+1178,TOI-1430 b,0.022,0.187,0.0705,Primary Transit
+1179,TOI-1431 b/MASCARA-5 b,3.14,1.508,0.047,Primary Transit
+1180,TOI-1442 b,0.005,0.1044,0.0071,Primary Transit
+1181,TOI-1444 b,0.01218,0.12463,,Primary Transit
+1182,TOI-1452 b,0.01517,0.14917,0.061,Primary Transit
+1183,TOI-1468 b,0.0101,0.1142,0.0208,Primary Transit
+1184,TOI-1468 c,0.02089,0.18414,0.0849,Primary Transit
+1185,TOI-1478 b,0.847,1.06,0.0903,Primary Transit
+1186,TOI-150 b,2.51,1.255,0.0643,Primary Transit
+1187,TOI-1516 b,3.16,1.36,,Primary Transit
+1188,TOI-1518 b,2.3,1.875,0.039,Primary Transit
+1189,TOI-157 b,1.18,1.286,0.0318,Primary Transit
+1190,TOI-1601 b,0.99,1.239,0.06864,Primary Transit
+1191,TOI-163 b,1.22,1.489,0.058,Primary Transit
+1192,TOI-1634 b,0.01545,0.1597,0.01545,Primary Transit
+1193,TOI-1669 b,0.0132,0.214,,Primary Transit
+1194,TOI-1670 b,0.0434,0.1838,0.103,Primary Transit
+1195,TOI-1670 c,0.63,0.987,0.249,Primary Transit
+1196,TOI-1683 b,0.025,0.205,0.036,Primary Transit
+1197,TOI-1685 b,0.01189,0.152,,Primary Transit
+1198,TOI-169 b,0.791,1.086,0.03524,Primary Transit
+1199,TOI-1693 b,0.0088,0.1258,0.0226,Primary Transit
+1200,TOI-1694 b,0.0979,0.4853,,Primary Transit
+1201,TOI-1696 b,0.1787,0.2891,0.0235,Primary Transit
+1202,TOI-1710 b,0.089,0.4764,0.16,Primary Transit
+1203,TOI-172 b,5.41,0.965,0.0913,Primary Transit
+1204,TOI-1728 b,0.08426,0.4505,0.0391,Primary Transit
+1205,TOI-1749 b,0.06,0.124,0.0291,Primary Transit
+1206,TOI-1749 c,0.0066,0.1891,0.0443,Primary Transit
+1207,TOI-1749 d,0.0135,0.2248,0.0707,Primary Transit
+1208,TOI-1759 b,0.0214,0.273,0.1176,Primary Transit
+1209,TOI-178 b,0.00472,0.10278,0.02607,Primary Transit
+1210,TOI-178 c,0.01501,0.1489,0.037,Primary Transit
+1211,TOI-178 d,0.00947,0.22946,0.0592,Primary Transit
+1212,TOI-178 e,0.01214,0.1969,0.0783,Primary Transit
+1213,TOI-178 f,0.02429,0.20403,0.1039,Primary Transit
+1214,TOI-178 g,0.0124,0.256,0.1275,Primary Transit
+1215,TOI-1789 b,0.7,1.4,0.04873,Primary Transit
+1216,TOI-179 b,0.0758,0.2436,0.0476,Primary Transit
+1217,TOI-1807 b,0.00714,0.1222,0.0135,Primary Transit
+1218,TOI-1811 b,0.974,1.0,0.04393,Primary Transit
+1219,TOI-1820 b,2.3,1.12,0.069,Primary Transit
+1220,TOI-1842 b,0.214,1.04,0.1,Primary Transit
+1221,TOI-1860 b,0.0069,0.1169,0.0204,Primary Transit
+1222,TOI-1899 b,0.66,1.37,0.1587,Primary Transit
+1223,TOI-2000 b,0.0324,0.2355,0.0426,Primary Transit
+1224,TOI-2000 c,0.2382,0.711,0.0875,Primary Transit
+1225,TOI-201 b,0.42,1.0,0.3,Primary Transit
+1226,TOI-2025 b,4.4,1.12,0.089,Primary Transit
+1227,TOI-2046 b,2.3,1.44,,Primary Transit
+1228,TOI-206 b,0.0069,0.116,0.0112,Primary Transit
+1229,TOI-2081 b,0.016,0.182,0.0752,Primary Transit
+1230,TOI-2109 b,5.02,1.347,,Primary Transit
+1231,TOI-2136 b,0.0148,0.1865,0.054,Primary Transit
+1232,TOI-2145 b,5.35,1.103,0.1108,Primary Transit
+1233,TOI-2152 b,2.83,1.281,0.05064,Primary Transit
+1234,TOI-2154 b,0.92,1.453,0.0513,Primary Transit
+1235,TOI-2158 b,0.82,0.96,0.074,Primary Transit
+1236,TOI-216 b,0.059,0.6861,0.1293,Primary Transit
+1237,TOI-216 c,0.56,0.901,0.2068,Primary Transit
+1238,TOI-2180 b,2.755,1.01,0.828,Primary Transit
+1239,TOI-2184 b,0.65,1.017,,Primary Transit
+1240,TOI-2193 b,0.94,1.77,0.03319,Primary Transit
+1241,TOI-2196 b,0.082,0.3131,0.02234,Primary Transit
+1242,TOI-220 b,0.0428,0.2694,0.0892,Radial Velocity
+1243,TOI-2202 b,0.978,1.0,0.09564,Primary Transit
+1244,TOI-2202 c,0.369,,0.15544,TTV
+1245,TOI-2207 b,0.64,0.995,0.0854,Primary Transit
+1246,TOI-2236 b,1.58,1.282,0.05,Primary Transit
+1247,TOI-2257 b,0.0179,0.19574,0.145,Primary Transit
+1248,TOI-2260 b,0.011,0.1445,0.0097,Primary Transit
+1249,TOI-2285 b,0.0614,0.1552,0.1363,Primary Transit
+1250,TOI-2337 b,1.0,0.9,,Primary Transit
+1251,TOI-237 b,0.009,0.1285,0.0341,Primary Transit
+1252,TOI-2406 b,0.0286,0.2623,0.0228,Primary Transit
+1253,TOI-2411 b,0.0123,0.1499,0.0144,Primary Transit
+1254,TOI-2421 b,0.333,0.924,0.0543,Primary Transit
+1255,TOI-2427 b,0.0129,0.161,0.0202,Primary Transit
+1256,TOI-2445 b,0.006,0.1115,0.0064,Primary Transit
+1257,TOI-2497 b,5.21,1.0,0.1167,Primary Transit
+1258,TOI-251 b,1.0,0.2444,0.05741,Primary Transit
+1259,TOI-2567 b,0.2,0.975,0.0672,Primary Transit
+1260,TOI-257 b,0.134,0.626,0.1523,Primary Transit
+1261,TOI-2669 b,0.61,1.76,,Primary Transit
+1262,TOI-269 b,0.0277,0.2471,0.0345,Primary Transit
+1263,TOI-270 b,0.006,0.11125,0.0306,Primary Transit
+1264,TOI-270 c,0.0208,0.2159,0.0472,Primary Transit
+1265,TOI-270 d,0.017,0.19,0.0733,Primary Transit
+1266,TOI-3331 b,2.27,1.158,0.03144,Primary Transit
+1267,TOI-3362 b,5.029,1.142,0.153,Primary Transit
+1268,TOI-3540 b,1.18,2.1,0.04289,Primary Transit
+1269,TOI-3629 b,0.26,0.74,0.043,Primary Transit
+1270,TOI-3693 b,1.02,1.124,0.081,Primary Transit
+1271,TOI-3714 b,0.7,1.01,0.027,Primary Transit
+1272,TOI-3757 b,0.2684,1.07,0.03845,Primary Transit
+1273,TOI-402 b,0.0227,0.1516,0.05245,Primary Transit
+1274,TOI-402 c,0.02766,0.225,0.1235,Primary Transit
+1275,TOI-4137 b,1.01,1.211,0.05222,Primary Transit
+1276,TOI-4138 b,0.67,1.49,0.051,Primary Transit
+1277,TOI-421 b,0.05107,0.4612,0.1182,Primary Transit
+1278,TOI-421 c,0.02218,0.2427,0.0557,Primary Transit
+1279,TOI-431 b,0.00966,0.1142,0.0113,Primary Transit
+1280,TOI-431 c,2.84,,0.052,Radial Velocity
+1281,TOI-431 d,0.0311,0.2935,0.098,Primary Transit
+1282,TOI-4329 b,0.45,1.5,,Primary Transit
+1283,TOI-4479 b,0.0261,0.2516,0.0164,Primary Transit
+1284,TOI-4562 b,3.29,1.072,0.771,Primary Transit
+1285,TOI-481 b,1.53,0.99,0.097,Primary Transit
+1286,TOI-500 b,0.005,0.1035,0.0128,Primary Transit
+1287,TOI-5153 b,3.26,1.06,0.158,Primary Transit
+1288,TOI-5205 b,1.08,1.035,0.0199,Primary Transit
+1289,TOI-530 b,0.4,0.83,0.052,Primary Transit
+1290,TOI-532 b,0.1935,0.5192,0.0296,Primary Transit
+1291,TOI-544 b,0.016,0.1811,0.0251,Primary Transit
+1292,TOI-5542 b,1.32,1.009,0.332,Primary Transit
+1293,TOI-558 b,3.61,1.086,0.1291,Primary Transit
+1294,TOI-559 b,6.01,1.091,0.0723,Primary Transit
+1295,TOI-561 b,0.00705,0.1222,0.0106,Primary Transit
+1296,TOI-561 c,0.0208,0.2596,0.089,Primary Transit
+1297,TOI-561 d,0.03823,0.2516,0.159,Primary Transit
+1298,TOI-561 e,0.0428,0.2275,0.33,Primary Transit
+1299,TOI-564 b,1.463,1.02,0.02734,Primary Transit
+1300,TOI-620 b,0.0485,0.3354,0.04825,Primary Transit
+1301,TOI-628 b,6.33,1.06,0.0486,Primary Transit
+1302,TOI-640 b,0.88,1.771,0.06608,Primary Transit
+1303,TOI-674 b,0.0739,0.4693,0.0231,Primary Transit
+1304,TOI-677 b,1.236,1.179,0.1038,Primary Transit
+1305,TOI-700 b,0.00406,0.0901,0.0637,Primary Transit
+1306,TOI-700 c,0.0249,0.2346,0.0925,Primary Transit
+1307,TOI-700 d,0.00711,0.1062,0.163,Primary Transit
+1308,TOI-712 b,0.0176,0.1828,0.07928,Primary Transit
+1309,TOI-712 c,0.0274,0.241,0.2447,Primary Transit
+1310,TOI-712 d,0.0236,0.22072,0.3405,Primary Transit
+1311,TOI-763 b,0.0308,0.2034,0.06,Primary Transit
+1312,TOI-763 c,0.02932,0.2346,0.1,Primary Transit
+1313,TOI-776 b,0.01466,0.1633,0.0652,Primary Transit
+1314,TOI-776 c,0.0192,0.1838,0.1,Primary Transit
+1315,TOI-824 b,0.058104,0.26104,0.02177,Primary Transit
+1316,TOI-833 b,0.006,0.1133,0.0171,Primary Transit
+1317,TOI-836 b,0.01425,0.15202,0.0422,Primary Transit
+1318,TOI-836 c,0.0302,0.2308,0.075,Primary Transit
+1319,TOI-849 b,0.12299,0.30726,0.01598,Primary Transit
+1320,TOI-892 b,0.95,1.07,0.092,Primary Transit
+1321,TOI-905 b,0.667,1.171,0.04666,Primary Transit
+1322,TOI-942 b,2.599,0.4291,0.04796,Primary Transit
+1323,TOI-942 c,2.501,0.5166,0.0847,Primary Transit
+1324,TOI-954 b,0.174,0.852,0.04963,Primary Transit
+1325,TOI-969 b,0.0286,0.24668,0.02636,Primary Transit
+1326,TRAPPIST-1 b,0.0027,0.09689,0.01111,Primary Transit
+1327,TRAPPIST-1 c,0.00434,0.09421,0.01521,Primary Transit
+1328,TRAPPIST-1 d,0.0013,0.0689,0.02144,Primary Transit
+1329,TRAPPIST-1 e,0.002,0.0819,0.02817,Primary Transit
+1330,TRAPPIST-1 f,0.0021,0.09323,0.0371,Primary Transit
+1331,TRAPPIST-1 g,0.00422,0.1005,0.0451,Primary Transit
+1332,TRAPPIST-1 h,0.001041,0.0674,0.063,Primary Transit
+1333,TVLM 513-46546 b,0.38,,0.3,Astrometry
+1334,TYC 8998-760-1 b,14.0,3.0,162.0,Imaging
+1335,TYC 8998-760-1 c,6.0,,320.0,Imaging
+1336,TrES-1 b,0.761,1.099,0.0393,Primary Transit
+1337,TrES-2 A b,1.253,1.189,0.03555,Primary Transit
+1338,TrES-3 b,1.91,1.305,0.0226,Primary Transit
+1339,TrES-4 b,0.917,1.706,0.05084,Primary Transit
+1340,TrES-5 b,1.778,1.209,0.02446,Primary Transit
+1341,UGPS J0722-0540,18.2,,,Imaging
+1342,UKIRT-2017-BLG-001 b,1.28,,4.18,Microlensing
+1343,ULAS1335,12.5,,,Imaging
+1344,ULASJ0034,12.5,,,Imaging
+1345,USco 1556A b,14.0,,3500.0,Imaging
+1346,USco 1621A b,15.0,,2880.0,Imaging
+1347,USco J155150.2-213457,8.0,,,Imaging
+1348,WASP-57 b,0.8,1.1,,Primary Transit
+1349,UScoCTIO 108 b,14.0,,670.0,Imaging
+1350,UZ For (AB) b,6.3,,5.9,Other
+1351,UZ For (AB) c,7.7,,2.8,Pulsar
+1352,V 1298 Tau b,2.2,0.8217,0.1688,Primary Transit
+1353,V391 Peg b,3.2,,1.7,Pulsar
+1354,V396 Hya b,18.3,,,Radial Velocity
+1355,VHS 1256-1257 b,19.0,,179.0,Imaging
+1356,WASP-1 b,0.947,1.514,0.03958,Primary Transit
+1357,WASP-10 b,3.16,1.08,0.0371,Primary Transit
+1358,WASP-100 b,2.03,1.69,0.0457,Primary Transit
+1359,WASP-101 b,0.5,1.41,0.0506,Primary Transit
+1360,WASP-102 b,0.624,1.259,0.0401,Primary Transit
+1361,WASP-103 b,1.49,1.528,0.01985,Primary Transit
+1362,WASP-104 b,1.272,1.137,0.02918,Primary Transit
+1363,WASP-105 b,1.8,0.96,0.075,Primary Transit
+1364,WASP-106 b,1.925,1.085,0.0917,Primary Transit
+1365,WASP-107 b,0.12,0.94,0.055,Primary Transit
+1366,WASP-108 b,1.167,1.215,0.0397,Primary Transit
+1367,WASP-109 b,0.91,1.443,0.0463,Primary Transit
+1368,WASP-110 b,0.515,1.238,0.0457,Primary Transit
+1369,WASP-111 b,1.85,1.442,0.03914,Primary Transit
+1370,WASP-112 b,0.88,1.191,0.0382,Primary Transit
+1371,WASP-113 b,0.475,1.409,0.05885,Primary Transit
+1372,WASP-114 b,1.769,1.339,0.02851,Primary Transit
+1373,WASP-117 b,0.2755,1.021,0.09459,Primary Transit
+1374,WASP-118 b,0.514,1.44,0.05453,Primary Transit
+1375,WASP-119 b,1.23,1.4,0.0363,Primary Transit
+1376,WASP-123 b,0.92,1.327,0.0431,Primary Transit
+1377,WASP-12 b,1.47,1.9,0.02344,Primary Transit
+1378,WASP-120 b,5.06,1.515,0.0522,Primary Transit
+1379,WASP-121 b,1.184,1.865,0.02544,Primary Transit
+1380,WASP-122 b,1.401,1.792,0.03107,Primary Transit
+1381,WASP-124 b,0.6,1.24,0.0499,Primary Transit
+1382,WASP-126 b,0.2841,0.96,0.0449,Primary Transit
+1383,WASP-126 c,0.202,,,TTV
+1384,WASP-127 b,0.18,1.37,0.052,Primary Transit
+1385,WASP-129 b,1.0,0.93,0.0628,Primary Transit
+1386,WASP-13 b,0.485,1.365,0.05379,Primary Transit
+1387,WASP-130 b,1.23,0.89,0.1012,Primary Transit
+1388,WASP-131 b,0.27,1.22,0.0607,Primary Transit
+1389,WASP-132 b,0.41,0.8966,0.067,Primary Transit
+1390,WASP-133 b,1.16,1.21,0.0345,Primary Transit
+1391,WASP-134 b,1.412,0.988,0.0956,Primary Transit
+1392,WASP-135 b,1.9,1.3,0.0243,Primary Transit
+1393,WASP-136 b,1.51,1.38,0.0661,Primary Transit
+1394,WASP-137 b,0.681,1.27,0.0519,Primary Transit
+1395,WASP-138 b,1.22,,0.0494,Primary Transit
+1396,WASP-139 b,0.117,0.8,0.062,Primary Transit
+1397,WASP-14 b,7.341,1.281,0.036,Primary Transit
+1398,WASP-140 b,2.44,1.44,0.0323,Primary Transit
+1399,WASP-141 b,2.69,1.21,0.0469,Primary Transit
+1400,WASP-142 b,0.84,1.53,0.0347,Primary Transit
+1401,WASP-143 b,0.725,1.234,0.049,Primary Transit
+1402,WASP-144 b,0.44,0.85,0.0316,Primary Transit
+1403,WASP-145 A b,0.89,0.9,0.0261,Primary Transit
+1404,WASP-146 b,1.11,1.228,0.0451,Primary Transit
+1405,WASP-147 b,0.275,1.115,0.0549,Primary Transit
+1406,WASP-148 b,0.287,0.756,0.08215,Primary Transit
+1407,WASP-15 b,0.542,1.428,0.0499,Primary Transit
+1408,WASP-150 b,8.46,1.07,0.0694,Primary Transit
+1409,WASP-151 b,0.31,1.13,0.055,Primary Transit
+1410,WASP-153 b,0.39,1.55,0.048,Primary Transit
+1411,WASP-156 b,0.1303,0.554,0.0451,Primary Transit
+1412,WASP-157 b,0.576,0.998,0.0499,Primary Transit
+1413,WASP-158 b,2.79,1.07,0.0517,Primary Transit
+1414,WASP-159 b,0.55,1.38,0.0538,Primary Transit
+1415,WASP-16 b,0.855,1.008,0.0421,Primary Transit
+1416,WASP-160 B b,0.281,1.093,0.0455,Primary Transit
+1417,WASP-161 b,2.49,1.143,0.0673,Primary Transit
+1418,WASP-162 b,5.2,1.0,0.0871,Primary Transit
+1419,WASP-163 b,1.87,1.202,0.0266,Primary Transit
+1420,WASP-164 b,2.13,1.128,0.02818,Primary Transit
+1421,WASP-165 b,0.658,1.26,0.04823,Primary Transit
+1422,WASP-166 b,0.102,0.6155,0.0668,Primary Transit
+1423,WASP-167 b,8.0,1.51,0.0365,Primary Transit
+1424,WASP-168 b,0.42,1.5,0.0519,Primary Transit
+1425,WASP-169 b,0.561,1.304,0.0681,Primary Transit
+1426,WASP-17 b,0.486,1.991,0.0515,Primary Transit
+1427,WASP-170 b,1.6,1.096,0.0337,Primary Transit
+1428,WASP-171 b,1.084,0.988,0.0504,Primary Transit
+1429,WASP-172 b,0.47,1.57,0.0694,Primary Transit
+1430,WASP-174 b,0.33,1.437,0.05503,Primary Transit
+1431,WASP-175 b,0.99,1.208,0.044,Primary Transit
+1432,WASP-176 b,0.855,1.505,0.0535,Primary Transit
+1433,WASP-177 b,0.508,1.58,0.03957,Primary Transit
+1434,WASP-178 b,1.41,1.94,0.0558,Primary Transit
+1435,WASP-18 b,10.4296,1.165,0.02047,Primary Transit
+1436,WASP-18 c,0.1737,,,TTV
+1437,WASP-180 A b,0.8,1.29,0.048,Primary Transit
+1438,WASP-181 b,0.299,1.184,0.05427,Primary Transit
+1439,WASP-182 b,0.148,0.85,0.0451,Primary Transit
+1440,WASP-183 b,0.502,1.47,0.04632,Primary Transit
+1441,WASP-184 b,0.57,1.33,0.0627,Primary Transit
+1442,WASP-185 b,0.98,1.25,0.0904,Primary Transit
+1443,WASP-186 b,4.22,1.11,0.06,Primary Transit
+1444,WASP-187 b,0.8,1.64,0.0653,Primary Transit
+1445,WASP-189 b,1.99,1.619,0.05053,Primary Transit
+1446,WASP-19 b,1.139,1.41,0.016634,Primary Transit
+1447,WASP-190 b,1.0,1.15,0.0663,Primary Transit
+1448,WASP-192 b,2.3,1.23,0.0408,Primary Transit
+1449,WASP-2 A b,0.847,1.079,0.03138,Primary Transit
+1450,WASP-20 A b,0.313,1.459,0.06003,Primary Transit
+1451,WASP-21 b,0.3,1.21,0.052,Primary Transit
+1452,WASP-22 b,0.617,1.199,0.04698,Primary Transit
+1453,WASP-23 b,0.884,0.962,0.0376,Primary Transit
+1454,WASP-24 b,1.071,1.3,0.03651,Primary Transit
+1455,WASP-25 b,0.58,1.26,0.0474,Primary Transit
+1456,WASP-26 b,1.028,1.281,0.03985,Primary Transit
+1457,WASP-28 b,0.907,1.213,0.04469,Primary Transit
+1458,WASP-29 b,0.243,0.775,0.047,Primary Transit
+1459,WASP-3 b,2.06,1.454,0.0313,Primary Transit
+1460,WASP-31 b,0.478,1.537,0.04657,Primary Transit
+1461,WASP-32 b,3.6,1.18,0.0394,Primary Transit
+1462,WASP-33 b,2.8,1.603,0.02558,Primary Transit
+1463,WASP-34 b,0.59,1.22,0.0524,Primary Transit
+1464,WASP-35 b,0.72,1.32,0.04317,Primary Transit
+1465,WASP-36 b,2.279,1.269,0.02624,Primary Transit
+1466,WASP-37 b,1.8,1.16,0.04339,Primary Transit
+1467,WASP-38 b,2.712,1.079,0.07551,Primary Transit
+1468,WASP-39 b,0.28,1.27,0.0486,Primary Transit
+1469,WASP-4 b,1.1974,1.3846,0.02312,Primary Transit
+1470,WASP-41 b,0.94,1.18,0.04,Primary Transit
+1471,WASP-42 b,0.5,1.08,0.0458,Primary Transit
+1472,WASP-43 b,2.052,1.036,0.01526,Primary Transit
+1473,WASP-44 b,0.889,1.14,0.03473,Primary Transit
+1474,WASP-45 b,1.007,1.16,0.04054,Primary Transit
+1475,WASP-46 b,2.101,1.31,0.02448,Primary Transit
+1476,WASP-47 b,1.14243,1.127,0.052,Primary Transit
+1477,WASP-47 c,1.31,,1.41,Radial Velocity
+1478,WASP-47 d,0.04122,0.319,0.088,Primary Transit
+1479,WASP-47 e,0.02149,0.161,0.0173,Primary Transit
+1480,WASP-48 b,0.98,1.67,0.03444,Primary Transit
+1481,WASP-49 A b,0.378,1.115,0.0378,Primary Transit
+1482,WASP-5 b,1.637,1.171,0.02729,Primary Transit
+1483,WASP-50 b,1.437,1.138,0.02913,Primary Transit
+1484,WASP-52 b,0.46,1.27,0.0272,Primary Transit
+1485,WASP-53 b,2.132,1.074,0.04101,Primary Transit
+1486,WASP-54 b,0.6,1.4,,Primary Transit
+1487,WASP-55 b,0.61,1.33,0.0533,Primary Transit
+1488,WASP-56 b,0.6,1.2,,Primary Transit
+1489,WASP-58 b,0.89,1.37,0.0561,Primary Transit
+1490,WASP-59 b,0.863,0.775,0.0697,Primary Transit
+1491,WASP-6 b,0.503,1.224,0.0421,Primary Transit
+1492,WASP-60 b,0.5,0.9,,Primary Transit
+1493,WASP-61 b,2.06,1.24,0.0514,Primary Transit
+1494,WASP-62 b,0.57,1.39,0.0567,Primary Transit
+1495,WASP-63 b,0.38,1.43,0.0574,Primary Transit
+1496,WASP-64 b,1.2,0.7,,Primary Transit
+1497,WASP-65 b,1.55,1.112,0.0334,Primary Transit
+1498,WASP-66 b,2.32,1.39,0.0546,Primary Transit
+1499,WASP-67 b,0.42,1.4,0.0517,Primary Transit
+1500,WASP-68 b,0.95,1.24,0.06206,Primary Transit
+1501,WASP-69 b,0.26,1.057,0.04525,Primary Transit
+1502,WASP-7 b,0.96,1.33,0.0617,Primary Transit
+1503,WASP-70 A b,0.59,1.164,0.04853,Primary Transit
+1504,WASP-71 b,2.258,1.5,0.04631,Primary Transit
+1505,WASP-72 b,1.461,1.27,0.03708,Primary Transit
+1506,WASP-73 b,1.88,1.16,0.05512,Primary Transit
+1507,WASP-74 b,0.826,1.248,0.03443,Primary Transit
+1508,WASP-75 b,1.07,1.27,0.0375,Primary Transit
+1509,WASP-76 b,0.92,1.83,0.033,Primary Transit
+1510,WASP-77 A b,1.76,1.21,0.024,Primary Transit
+1511,WASP-78 b,0.89,1.7,0.0415,Primary Transit
+1512,WASP-79 b,0.9,1.7,0.0539,Primary Transit
+1513,WASP-8 b,2.244,1.038,0.0801,Primary Transit
+1514,WASP-80 b,0.554,0.952,0.0346,Primary Transit
+1515,WASP-81 b,0.729,1.429,0.03908,Primary Transit
+1516,WASP-82 b,1.24,1.67,0.0447,Primary Transit
+1517,WASP-83 b,0.3,1.04,0.059,Primary Transit
+1518,WASP-84 b,0.694,0.942,0.0771,Primary Transit
+1519,WASP-85 A b,1.265,1.24,0.039,Primary Transit
+1520,WASP-87 A b,2.21,1.385,0.02946,Primary Transit
+1521,WASP-88 b,0.56,1.7,0.06431,Primary Transit
+1522,WASP-89 b,5.9,1.04,0.0427,Primary Transit
+1523,WASP-90 b,0.63,1.63,0.0562,Primary Transit
+1524,WASP-91 b,1.34,1.03,0.037,Primary Transit
+1525,WASP-92 b,0.805,1.461,0.0348,Primary Transit
+1526,WASP-93 b,1.47,1.597,0.04211,Primary Transit
+1527,WASP-94 A b,0.452,1.72,0.055,Primary Transit
+1528,WASP-95 b,1.206,1.098,0.0312,Primary Transit
+1529,WASP-96 b,0.48,1.2,0.0453,Primary Transit
+1530,WASP-97 b,1.32,1.13,0.03303,Primary Transit
+1531,WASP-98 b,0.83,1.1,0.036,Primary Transit
+1532,WASP-99 b,2.78,1.1,0.0717,Primary Transit
+1533,WD 0806-661 B b,8.0,,2500.0,Imaging
+1534,WD 1145+017 b,2.1e-06,,,Primary Transit
+1535,WISE 0855-0714,6.0,,,Imaging
+1536,WISE 1711+3500 b,18.0,,15.0,Imaging
+1537,WISE 1828+2650,10.25,,,Imaging
+1538,WISE J0458+6434 B,14.0,,4.0,Astrometry
+1539,WISE J1355-8258 b,9.0,,,Imaging
+1540,WISE J2216+1952,5.0,1.32,,Imaging
+1541,WISEA J083011.95+283716.0,8.5,,,Imaging
+1542,WTS-1 b,4.01,1.49,0.047,Primary Transit
+1543,WTS-2 b,1.12,1.3,0.01855,Primary Transit
+1544,Wendelstein-1 b,0.59,1.0,0.0282,Primary Transit
+1545,Wendelstein-2 b,0.73,1.0,0.0234,Primary Transit
+1546,XO-1 b,0.9,1.184,0.0488,Primary Transit
+1547,XO-2N b,0.62,0.973,0.0369,Primary Transit
+1548,XO-3 b,11.79,1.217,0.0454,Primary Transit
+1549,XO-4 b,1.616,1.317,0.05485,Primary Transit
+1550,XO-5 b,1.077,1.03,0.0487,Primary Transit
+1551,XO-6 b,1.9,2.07,0.0815,Primary Transit
+1552,XO-7 b,0.709,1.373,0.04421,Primary Transit
+1553,XTE J1807-294 b,14.5,,,Pulsar
+1554,YSES 2 b,6.3,,114.0,Imaging
+1555,ZTFJ0003+14 b,17.0,0.57,,Primary Transit
+1556,ZTFJ0220+21 b,14.0,0.54,,Primary Transit
+1557,ZTFJ0407-00 b,19.0,0.44,,Primary Transit
+1558,b Cen b,10.9,,556.0,Imaging
+1559,beta Pic b,11.9,1.65,9.93,Imaging
+1560,beta Pic c,8.89,1.2,2.68,Radial Velocity
+1561,eps Eridani b,0.65,,3.53,Radial Velocity
+1562,eps Ind A b,3.25,,11.55,Radial Velocity
+1563,gamma Cephei b,17.539,,2.1459,Radial Velocity
+1564,kappa And b,13.0,1.2,100.0,Imaging
+1565,mu2 Sco b,14.4,,242.4,Imaging
+1566,pi Men b,12.6,,3.308,Radial Velocity
+1567,pi Men c,0.01142,0.16719,0.06702,Primary Transit
+1568,tau Boo A b,5.84,1.06,0.046,Radial Velocity
+1569,ups And b,0.62,,0.059,Radial Velocity
+1570,ups And c,9.1,,0.861,Radial Velocity
