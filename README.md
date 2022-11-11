@@ -1,4 +1,4 @@
-# Astrometria
+# Astrometria_Guia_3
 
 Agustina Colazo
 ## Guia de Ejercicios 3
